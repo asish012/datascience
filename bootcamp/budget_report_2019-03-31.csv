@@ -1,0 +1,652 @@
+account;category;currency;amount;ref_currency_amount;type;payment_type;payment_type_local;note;date;gps_latitude;gps_longitude;gps_accuracy_in_meters;warranty_in_month;transfer;payee;labels;envelope_id;custom_category
+Monthly expenses;Groceries;EUR;-10.09;-10.09;Expenses;CASH;Cash;;2019-03-29 17:39:05;48.10765;11.72266;19;0;false;Lidl;Household;1000;false
+Monthly expenses;Public transport;EUR;-2.90;-2.90;Expenses;CASH;Cash;to jagdfeldring;2019-03-29 16:27:26;48.18603;11.54874;64;0;false;mvv;Household;4000;false
+Monthly expenses;Restaurant, fast-food;EUR;-9.00;-9.00;Expenses;CASH;Cash;pizza;2019-03-27 14:50:37;48.10666;11.64388;13;0;false;Domino's;Household;1001;false
+Monthly expenses;Vehicle maintenance;EUR;-10.50;-10.50;Expenses;CASH;Cash;car wash;2019-03-27 14:48:44;48.10665;11.64389;15;0;false;;Household;5002;false
+Monthly expenses;Internet;EUR;-30.00;-30.00;Expenses;CASH;Cash;;2019-03-27 01:00:00;;;;0;false;Vodafone;;7002;false
+Monthly expenses;Groceries;EUR;-14.83;-14.83;Expenses;CASH;Cash;turkish grocery;2019-03-25 19:30:24;48.19638;11.67841;1860;0;false;;Household;1000;false
+Monthly expenses;Groceries;EUR;-3.98;-3.98;Expenses;CASH;Cash;chocolate;2019-03-25 12:43:18;48.18371;11.53803;44;0;false;kaufhof;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-4.50;-4.50;Expenses;CASH;Cash;turkish lunch;2019-03-25 12:42:59;48.18323;11.53688;18;0;false;;Household;1001;false
+Monthly expenses;Restaurant, fast-food;EUR;-22.50;-22.50;Expenses;CASH;Cash;zuckspitze;2019-03-23 17:33:47;47.4912;11.08493;50;0;false;pizza hut;Household;1001;false
+Monthly expenses;Parking;EUR;-5.00;-5.00;Expenses;CASH;Cash;zuckspitze;2019-03-23 17:33:30;47.4912;11.08493;50;0;false;;Household;5001;false
+Monthly expenses;Electronics, accessories;EUR;-14.99;-14.99;Expenses;CASH;Cash;fifa 18;2019-03-22 13:13:23;48.18313;11.53703;18;0;false;game stop;Household;2006;false
+Monthly expenses;Restaurant, fast-food;EUR;-4.50;-4.50;Expenses;CASH;Cash;turkish lunch;2019-03-22 13:12:51;48.18325;11.53666;15;0;false;;Household;1001;false
+Monthly expenses;Restaurant, fast-food;EUR;-50.00;-50.00;Expenses;CASH;Cash;dinner with russell;2019-03-19 23:09:27;48.10555;11.72589;15;0;false;Little India;Household;1001;false
+Monthly expenses;Skype;EUR;-14.28;-14.28;Expenses;CASH;Cash;;2019-03-19 01:00:00;;;;0;false;PayPal;;7005;true
+Monthly expenses;Restaurant, fast-food;EUR;-4.50;-4.50;Expenses;CASH;Cash;turkish lunch;2019-03-18 12:41:50;;;;0;false;;Household;1001;false
+Monthly expenses;Groceries;EUR;-13.88;-13.88;Expenses;CASH;Cash;;2019-03-16 18:14:26;48.10953;11.71751;28;0;false;Aldi;Household;1000;false
+Monthly expenses;Internet;EUR;-19.95;-19.95;Expenses;CASH;Cash;temporary internet;2019-03-16 00:27:10;48.10615;11.72553;16;0;false;Telecom Fon;Household;7002;false
+Monthly expenses;Groceries;EUR;-6.52;-6.52;Expenses;CASH;Cash;;2019-03-15 16:03:17;48.10733;11.72265;19;0;false;lidl;Household;1000;false
+Monthly expenses;Wellness, beauty;EUR;-14.00;-14.00;Expenses;CASH;Cash;haircut asish;2019-03-15 15:54:07;48.10764;11.7228;16;0;false;;Household;6001;false
+Monthly expenses;Restaurant, fast-food;EUR;-4.50;-4.50;Expenses;CASH;Cash;turkish lunch;2019-03-14 13:03:18;48.1062;11.72566;18;0;false;;Household;1001;false
+Monthly expenses;Restaurant, fast-food;EUR;-4.50;-4.50;Expenses;CASH;Cash;turkish lunch;2019-03-13 13:02:44;48.1062;11.72566;15;0;false;;Household;1001;false
+Monthly expenses;Restaurant, fast-food;EUR;-4.50;-4.50;Expenses;CASH;Cash;turkish lunch;2019-03-12 12:57:23;48.18346;11.53465;16;0;false;;Household;1001;false
+Monthly expenses;Groceries;EUR;-14.50;-14.50;Expenses;CASH;Cash;;2019-03-11 17:02:04;48.1062;11.72566;18;0;false;Haat Bazaar;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-4.50;-4.50;Expenses;CASH;Cash;turkish lunch;2019-03-11 12:45:02;48.1871;11.54372;15;0;false;;Household;1001;false
+Monthly expenses;Energy, utilities;EUR;-30.00;-30.00;Expenses;CASH;Cash;;2019-03-11 01:00:00;;;;0;false;Enbw;;3002;false
+Monthly expenses;Restaurant, fast-food;EUR;-7.00;-7.00;Expenses;CASH;Cash;pizza;2019-03-10 16:17:50;48.06325;11.66224;17;0;false;Domino's;Household;1001;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;mobile (anwasha);2019-03-10 01:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;mobile (asish);2019-03-10 01:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Groceries;EUR;-1.29;-1.29;Expenses;CASH;Cash;;2019-03-09 17:13:07;48.10764;11.72244;16;0;false;lidl;Household;1000;false
+Monthly expenses;Internet;EUR;-19.95;-19.95;Expenses;CASH;Cash;temporary internet;2019-03-09 15:48:54;48.1062;11.72567;16;0;false;Telecom Fon;Household;7002;false
+Monthly expenses;Clothes & shoes;EUR;-3.99;-3.99;Expenses;CASH;Cash;socks;2019-03-09 12:10:17;48.1062;11.72566;16;0;false;NKD;Household;2000;false
+Monthly expenses;Groceries;EUR;-4.33;-4.33;Expenses;CASH;Cash;;2019-03-09 12:09:56;48.1062;11.72566;16;0;false;Aldi;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-4.50;-4.50;Expenses;CASH;Cash;turkish lunch;2019-03-08 13:02:58;48.10619;11.72567;15;0;false;;Household;1001;false
+Monthly expenses;Groceries;EUR;-23.93;-23.93;Expenses;CASH;Cash;;2019-03-05 17:12:16;48.1062;11.72566;16;0;false;Rewe;Household;1000;false
+Monthly expenses;Home;EUR;-27.96;-27.96;Expenses;CASH;Cash;shower curtain rod, tepisch;2019-03-05 15:08:22;48.30378;11.63352;16;0;false;ikea;Household;2004;false
+Monthly expenses;Groceries;EUR;-14.63;-14.63;Expenses;CASH;Cash;;2019-03-04 12:06:21;48.10767;11.72278;33;0;false;lidl;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-7.18;-7.18;Expenses;CASH;Cash;;2019-03-03 13:40:24;48.40366;9.97527;64;0;false;kfc;Household;1001;false
+Monthly expenses;Restaurant, fast-food;EUR;-21.00;-21.00;Expenses;CASH;Cash;lunch with sajib & wadud;2019-03-02 19:25:03;48.202;11.5857;17;0;false;;Household;1001;false
+Monthly expenses;Fuel;EUR;-44.69;-44.69;Expenses;CASH;Cash;move to Munich;2019-03-02 19:24:53;48.20136;11.58597;47;0;false;aral;Household;5000;false
+Monthly expenses;Rentals;EUR;-188.27;-188.27;Expenses;CASH;Cash;move to Munich;2019-03-02 10:00:55;48.10617;11.72556;16;0;false;europecar;Household;5003;false
+Monthly expenses;Groceries;EUR;-1.25;-1.25;Expenses;CASH;Cash;;2019-03-01 11:59:37;48.40964;9.96415;15;0;false;kaufland;Household;1000;false
+Monthly expenses;Rent;EUR;-1060.00;-1060.00;Expenses;CASH;Cash;;2019-03-01 01:00:50;;;;0;false;Vonovia;;3000;false
+Monthly expenses;Vehicle;EUR;-413.28;-413.28;Expenses;CASH;Cash;;2019-03-01 01:00:00;;;;0;false;BMW;;5004;false
+Monthly expenses;TV, Streaming;EUR;-52.50;-52.50;Expenses;CASH;Cash;;2019-03-01 01:00:00;;;;0;false;ARD;;6008;false
+Monthly expenses;Restaurant, fast-food;EUR;-20.97;-20.97;Expenses;CASH;Cash;pizza with sajib;2019-02-27 20:57:24;48.10691;11.64189;15;0;false;Domino's;Household;1001;false
+Monthly expenses;Internet;EUR;-17.99;-17.99;Expenses;CASH;Cash;aldi talk;2019-02-27 19:01:35;48.10927;11.71788;17;0;false;aldi;Household;7002;false
+Monthly expenses;Restaurant, fast-food;EUR;-4.50;-4.50;Expenses;CASH;Cash;lunch with Khaled vai;2019-02-27 13:03:58;48.18684;11.54346;19;0;false;;Household;1001;false
+Monthly expenses;Internet;EUR;-20.00;-20.00;Expenses;CASH;Cash;;2019-02-27 01:00:00;;;;0;false;Vodafone;;7002;false
+Monthly expenses;Groceries;EUR;-3.63;-3.63;Expenses;CASH;Cash;;2019-02-26 16:34:27;48.15812;11.64115;15;0;false;Rewe;Household;1000;false
+Monthly expenses;Groceries;EUR;-8.56;-8.56;Expenses;CASH;Cash;;2019-02-26 13:54:52;48.15818;11.64101;16;0;false;Rewe;Household;1000;false
+Monthly expenses;Groceries;EUR;-14.06;-14.06;Expenses;CASH;Cash;;2019-02-23 19:12:45;;;;0;false;Rewe;Household;1000;false
+Monthly expenses;Groceries;EUR;-2.28;-2.28;Expenses;CASH;Cash;;2019-02-22 21:10:22;48.40935;9.96162;30;0;false;Rewe;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-11.00;-11.00;Expenses;CASH;Cash;lunch with Khaled vai;2019-02-21 13:52:17;48.18715;11.54416;16;0;false;;Household;1001;false
+Monthly expenses;Parking;EUR;-12.50;-12.50;Expenses;CASH;Cash;Airport Munich;2019-02-20 09:45:46;48.18703;11.54367;17;0;false;;Household;5001;false
+Monthly expenses;Restaurant, fast-food;EUR;-12.48;-12.48;Expenses;CASH;Cash;pizza;2019-02-19 19:31:28;48.40964;9.96414;14;0;false;Domino's;Household;1001;false
+Monthly expenses;Groceries;EUR;-7.36;-7.36;Expenses;CASH;Cash;;2019-02-19 19:06:49;48.41371;9.94564;52;0;false;Rewe;Household;1000;false
+Monthly expenses;Drug-store, chemist;EUR;-23.90;-23.90;Expenses;CASH;Cash;sunscreen;2019-02-19 11:26:34;48.40852;9.96704;15;0;false;;Household;2011;false
+Monthly expenses;Skype;EUR;-14.28;-14.28;Expenses;CASH;Cash;;2019-02-19 01:00:00;;;;0;false;PayPal;;7005;true
+Monthly expenses;Gifts, joy;EUR;-23.90;-23.90;Expenses;CASH;Cash;cosmetics;2019-02-16 19:05:15;48.39755;9.99305;17;0;false;Douglas;Household|Bangladesh Trip 02.2019;2007;false
+Monthly expenses;Gifts, joy;EUR;-120.39;-120.39;Expenses;CASH;Cash;cosmetics;2019-02-16 18:30:09;48.39861;9.9907;16;0;false;Rossman;Household|Bangladesh Trip 02.2019;2007;false
+Monthly expenses;Home;EUR;-26.20;-26.20;Expenses;CASH;Cash;box;2019-02-16 16:44:38;48.40049;9.969;24;0;false;bauhaus;Household;2004;false
+Monthly expenses;Restaurant, fast-food;EUR;-40.00;-40.00;Expenses;CASH;Cash;valentine dinner;2019-02-15 21:45:59;48.40784;9.96427;23;0;false;;Household;1001;false
+Monthly expenses;Groceries;EUR;-3.99;-3.99;Expenses;CASH;Cash;flower;2019-02-13 20:40:40;;;;0;false;Rewe;Household;1000;false
+Monthly expenses;Home;EUR;-7.99;-7.99;Expenses;CASH;Cash;cake career;2019-02-13 18:22:28;48.19193;11.50027;53;0;false;hit;Household;2004;false
+Monthly expenses;Charity, gifts;EUR;-69.50;-69.50;Expenses;CASH;Cash;anwasha birthday;2019-02-13 13:03:07;48.18338;11.53552;16;0;false;mac;Household;6010;false
+Monthly expenses;Restaurant, fast-food;EUR;-4.50;-4.50;Expenses;CASH;Cash;lunch;2019-02-13 13:00:30;48.18709;11.54368;16;0;false;;Household;1001;false
+Monthly expenses;Groceries;EUR;-7.57;-7.57;Expenses;CASH;Cash;;2019-02-12 23:00:10;48.40964;9.96417;14;0;false;Rewe;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-9.00;-9.00;Expenses;CASH;Cash;workshop dinner;2019-02-11 21:19:44;;;;0;false;Domino's;Household;1001;false
+Monthly expenses;Groceries;EUR;-25.68;-25.68;Expenses;CASH;Cash;;2019-02-11 19:40:23;;;;0;false;kaufland;Household;1000;false
+Monthly expenses;Energy, utilities;EUR;-27.00;-27.00;Expenses;CASH;Cash;;2019-02-11 01:00:00;;;;0;false;Enbw;;3002;false
+Monthly expenses;Others;EUR;-50.00;-50.00;Expenses;CASH;Cash;anwasha;2019-02-10 21:59:47;48.40964;9.96417;13;0;false;;Household;11000;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;mobile (anwasha);2019-02-10 01:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;mobile (asish);2019-02-10 01:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Groceries;EUR;-7.46;-7.46;Expenses;CASH;Cash;;2019-02-08 18:49:47;48.42943;9.97659;1431;0;false;Rewe;Household;1000;false
+Monthly expenses;Holiday, trips, hotels;EUR;-708.00;-708.00;Expenses;CASH;Cash;anwasha Bangladesh flight;2019-02-07 23:29:07;48.40965;9.96415;14;0;false;;Household;6009;false
+Monthly expenses;Restaurant, fast-food;EUR;-3.80;-3.80;Expenses;CASH;Cash;;2019-02-05 21:51:04;48.18415;11.53058;29;0;false;McDonald's;Household;1001;false
+Monthly expenses;Restaurant, fast-food;EUR;-12.80;-12.80;Expenses;CASH;Cash;bmw team event;2019-02-05 21:22:12;48.18416;11.53062;29;0;false;;Household;1001;false
+Monthly expenses;Others;EUR;-50.00;-50.00;Expenses;CASH;Cash;anwasha;2019-02-04 20:40:34;48.40966;9.96416;14;0;false;;Household;11000;false
+Monthly expenses;Groceries;EUR;-34.68;-34.68;Expenses;CASH;Cash;;2019-02-02 13:12:25;48.13823;11.56364;16;0;false;Haat Bazaar;Household;1000;false
+Monthly expenses;Groceries;EUR;-48.99;-48.99;Expenses;CASH;Cash;;2019-02-01 19:41:02;;;;0;false;Aldi;Household;1000;false
+Monthly expenses;Rent;EUR;-781.14;-781.14;Expenses;CASH;Cash;;2019-02-01 01:00:00;;;;0;false;Vonovia;;3000;false
+Monthly expenses;Vehicle;EUR;-413.28;-413.28;Expenses;CASH;Cash;;2019-02-01 01:00:00;;;;0;false;BMW;;5004;false
+Monthly expenses;Gifts, joy;EUR;-20.00;-20.00;Expenses;CASH;Cash;marian;2019-01-31 20:07:02;48.4096;9.96419;15;0;false;toysrus;Household;2007;false
+Monthly expenses;Groceries;EUR;-32.45;-32.45;Expenses;CASH;Cash;;2019-01-30 12:51:39;48.39285;10.0111;17;0;false;dogancan;Household;1000;false
+Monthly expenses;Internet;EUR;-20.00;-20.00;Expenses;CASH;Cash;;2019-01-27 01:00:00;;;;0;false;Vodafone;;7002;false
+Monthly expenses;Parking;EUR;-1.50;-1.50;Expenses;CASH;Cash;;2019-01-26 18:01:10;48.39181;9.99445;16;0;false;;Household;5001;false
+Monthly expenses;Groceries;EUR;-8.61;-8.61;Expenses;CASH;Cash;;2019-01-26 17:58:19;48.39269;10.00288;17;0;false;Rewe;Household;1000;false
+Monthly expenses;Gifts, joy;EUR;-10.00;-10.00;Expenses;CASH;Cash;bag - motuni marriage anniversary;2019-01-26 17:43:46;48.39283;10.00319;23;0;false;colloseum;Household;2007;false
+Monthly expenses;Clothes & shoes;EUR;-20.00;-20.00;Expenses;CASH;Cash;anwasha clothes;2019-01-26 17:43:06;48.393;10.00336;16;0;false;colloseum;Household;2000;false
+Monthly expenses;Gifts, joy;EUR;-8.00;-8.00;Expenses;CASH;Cash;motuni marriage anniversary;2019-01-26 17:12:29;48.39252;10.00275;16;0;false;;Household;2007;false
+Monthly expenses;Clothes & shoes;EUR;-11.18;-11.18;Expenses;CASH;Cash;;2019-01-26 15:52:54;48.41384;9.949;82;0;false;tally weill;Household;2000;false
+Monthly expenses;Restaurant, fast-food;EUR;-9.50;-9.50;Expenses;CASH;Cash;lehrer pizza;2019-01-26 13:06:36;48.39965;9.99539;12;0;false;;Household;1001;false
+Monthly expenses;Parking;EUR;-1.50;-1.50;Expenses;CASH;Cash;vhs Prüfung;2019-01-26 13:06:06;48.39965;9.9954;15;0;false;;Household;5001;false
+Monthly expenses;Groceries;EUR;-2.99;-2.99;Expenses;CASH;Cash;;2019-01-25 19:23:14;48.40964;9.96417;13;0;false;Rewe;Household;1000;false
+Monthly expenses;Fuel;EUR;-37.89;-37.89;Expenses;CASH;Cash;;2019-01-23 12:31:03;48.18708;11.54372;15;0;false;aral;Household;5000;false
+Monthly expenses;Groceries;EUR;-11.53;-11.53;Expenses;CASH;Cash;;2019-01-22 12:51:48;48.18708;11.54372;16;0;false;Aldi;Household;1000;false
+Monthly expenses;Home;EUR;-4.99;-4.99;Expenses;CASH;Cash;cake pan;2019-01-21 14:59:01;48.40891;9.96316;56;0;false;ikea;Household;2004;false
+Monthly expenses;Groceries;EUR;-14.85;-14.85;Expenses;CASH;Cash;;2019-01-21 14:29:31;48.40119;9.97398;27;0;false;kaufland;Household;1000;false
+Monthly expenses;Gifts, joy;EUR;-149.00;-149.00;Expenses;CASH;Cash;anniversary ring;2019-01-21 14:20:08;48.40113;9.9739;23;0;false;Christ;Household;2007;false
+Monthly expenses;Restaurant, fast-food;EUR;-3.70;-3.70;Expenses;CASH;Cash;breakfast;2019-01-21 13:06:56;48.39275;10.00311;30;0;false;staib neu ulm;Household;1001;false
+Monthly expenses;Home;EUR;-6.20;-6.20;Expenses;CASH;Cash;;2019-01-21 13:03:45;48.39276;10.00315;18;0;false;1€ shoo;Household;2004;false
+Monthly expenses;Skype;EUR;-14.28;-14.28;Expenses;CASH;Cash;;2019-01-19 01:00:00;;;;0;false;PayPal;;7005;true
+Monthly expenses;Groceries;EUR;-3.28;-3.28;Expenses;CASH;Cash;;2019-01-18 10:34:41;48.40946;9.95907;23;0;false;Rewe;Household;1000;false
+Monthly expenses;Parking;EUR;-15.00;-15.00;Expenses;CASH;Cash;parking fine;2019-01-16 11:51:49;48.18714;11.54375;15;0;false;ulm;Household;5001;false
+Monthly expenses;Others;EUR;-20.00;-20.00;Expenses;CASH;Cash;anwasha;2019-01-15 22:48:12;48.40964;9.96418;10;0;false;;Household;11000;false
+Monthly expenses;Books, audio, subscriptions;EUR;-20.00;-20.00;Expenses;CASH;Cash;german language exam book;2019-01-15 22:47:29;48.40964;9.96418;11;0;false;;Household;6007;false
+Monthly expenses;Groceries;EUR;-34.40;-34.40;Expenses;CASH;Cash;;2019-01-15 19:19:46;48.40063;9.97069;68;0;false;Aldi;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-12.00;-12.00;Expenses;CASH;Cash;;2019-01-13 19:30:00;;;;0;false;Dominos;Household;1001;false
+Monthly expenses;Public transport;EUR;-25.00;-25.00;Expenses;CASH;Cash;Bayern ticket;2019-01-11 10:46:47;48.18713;11.54374;15;0;false;DB;Household;4000;false
+Monthly expenses;Public transport;EUR;-32.40;-32.40;Expenses;CASH;Cash;ulm hbf to munich hbf;2019-01-11 06:37:45;48.3978;9.98422;47;0;false;DB;Household;4000;false
+Monthly expenses;Public transport;EUR;-2.30;-2.30;Expenses;CASH;Cash;Stifterweg to ulm hbf;2019-01-11 06:16:17;48.40843;9.96819;35;0;false;;Household;4000;false
+Monthly expenses;Energy, utilities;EUR;-27.00;-27.00;Expenses;CASH;Cash;;2019-01-11 01:00:25;;;;0;false;Enbw;;3002;false
+Monthly expenses;Restaurant, fast-food;EUR;-2.79;-2.79;Expenses;CASH;Cash;coffee;2019-01-10 18:34:45;48.11923;11.67735;26;0;false;McDonald's;Household;1001;false
+Monthly expenses;Groceries;EUR;-20.20;-20.20;Expenses;CASH;Cash;;2019-01-10 17:48:37;48.1097;11.71794;44;0;false;Aldi;Household;1000;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;mobile (anwasha);2019-01-10 01:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;mobile (asish);2019-01-10 01:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Restaurant, fast-food;EUR;-7.00;-7.00;Expenses;CASH;Cash;lunch;2019-01-08 19:03:18;48.40964;9.96417;14;0;false;BMW Canteen;Household;1001;false
+Monthly expenses;Health care, doctor;EUR;-5.00;-5.00;Expenses;CASH;Cash;;2019-01-08 19:02:42;48.40965;9.96416;14;0;false;;Household;6000;false
+Monthly expenses;Restaurant, fast-food;EUR;-2.29;-2.29;Expenses;CASH;Cash;capuchino;2019-01-08 08:03:42;48.41198;10.44008;9;0;false;McDonald's;Household;1001;false
+Monthly expenses;Others;EUR;-50.00;-50.00;Expenses;CASH;Cash;;2019-01-07 22:01:04;48.40964;9.96418;14;0;false;anwasha;Household;11000;false
+Monthly expenses;Electronics, accessories;EUR;-9.99;-9.99;Expenses;CASH;Cash;phone screen protector;2019-01-06 22:38:12;48.40965;9.96417;14;0;false;amazon;Household;2006;false
+Monthly expenses;Stationery, tools;EUR;-1.54;-1.54;Expenses;CASH;Cash;baking cup;2019-01-06 22:37:33;48.40965;9.96416;14;0;false;amazon;Household;2008;false
+Monthly expenses;Clothes & shoes;EUR;-2.00;-2.00;Expenses;CASH;Cash;tshirt;2019-01-05 19:41:32;;;;0;false;c&a;Household;2000;false
+Monthly expenses;Groceries;EUR;-32.16;-32.16;Expenses;CASH;Cash;turkish grocery;2019-01-05 18:23:23;48.39207;10.02092;14;0;false;dogancan;Household;1000;false
+Monthly expenses;Groceries;EUR;-7.20;-7.20;Expenses;CASH;Cash;Russian shop;2019-01-05 17:47:41;48.36386;10.01193;15;0;false;;Household;1000;false
+Monthly expenses;Vehicle;EUR;-413.28;-413.28;Expenses;CASH;Cash;;2019-01-01 01:00:00;;;;0;false;BMW;;5004;false
+Monthly expenses;Rent;EUR;-774.89;-774.89;Expenses;CASH;Cash;;2019-01-01 01:00:00;;;;0;false;Vonovia;;3000;false
+Monthly expenses;Gifts, joy;EUR;-7.00;-7.00;Expenses;CASH;Cash;berlin;2018-12-28 19:07:48;48.39824;9.98823;15;0;false;Mueller;Household;2007;false
+Monthly expenses;Home;EUR;-4.43;-4.43;Expenses;CASH;Cash;bulb 💡;2018-12-28 19:06:38;48.39826;9.98819;15;0;false;Mueller;Household;2004;false
+Monthly expenses;Wellness, beauty;EUR;-16.00;-16.00;Expenses;CASH;Cash;wash clothes;2018-12-28 10:24:49;48.39489;9.96887;30;0;false;;Household;6001;false
+Monthly expenses;Groceries;EUR;-16.49;-16.49;Expenses;CASH;Cash;;2018-12-27 15:44:14;;;;0;false;Rewe;Household;1000;false
+Monthly expenses;Groceries;EUR;-4.82;-4.82;Expenses;CASH;Cash;;2018-12-27 15:09:56;48.40141;9.97255;16;0;false;Aldi;Household;1000;false
+Monthly expenses;Internet;EUR;-20.00;-20.00;Expenses;CASH;Cash;;2018-12-27 01:00:00;;;;0;false;Vodafone;;7002;false
+Monthly expenses;Health and beauty;EUR;-25.00;-25.00;Expenses;CASH;Cash;face hydration cream;2018-12-24 13:57:38;48.40008;9.99034;16;0;false;body shop;Household;2002;false
+Monthly expenses;Gifts, joy;EUR;-11.90;-11.90;Expenses;CASH;Cash;;2018-12-24 13:24:34;48.40015;9.95975;22;0;false;deichmann;Bangladesh Trip 02.2019;2007;false
+Monthly expenses;Health and beauty;EUR;-10.00;-10.00;Expenses;CASH;Cash;;2018-12-24 13:15:00;;;;0;false;Mueller;Household;2002;false
+Monthly expenses;Gifts, joy;EUR;-32.80;-32.80;Expenses;CASH;Cash;;2018-12-24 13:13:00;48.40009;9.95998;15;0;false;Mueller;Bangladesh Trip 02.2019;2007;false
+Monthly expenses;Groceries;EUR;-36.52;-36.52;Expenses;CASH;Cash;;2018-12-24 11:51:32;48.40142;9.97256;16;0;false;Aldi;Household;1000;false
+Monthly expenses;Parking;EUR;-3.30;-3.30;Expenses;CASH;Cash;Salzburg parking;2018-12-23 23:56:55;48.40964;9.96418;14;0;false;;Household;5001;false
+Monthly expenses;Holiday, trips, hotels;EUR;-10.00;-10.00;Expenses;CASH;Cash;Austria autobahn toll;2018-12-23 23:55:38;48.40964;9.96417;14;0;false;;Household;6009;false
+Monthly expenses;Active sport, fitness;EUR;-14.00;-14.00;Expenses;CASH;Cash;Bowlin;2018-12-22 23:54:05;48.40964;9.96417;14;0;false;;Household;6002;false
+Monthly expenses;Parking;EUR;-6.00;-6.00;Expenses;CASH;Cash;bd shipping;2018-12-21 20:08:07;48.39743;9.99341;56;0;false;;Household|Bangladesh Trip 02.2019;5001;false
+Monthly expenses;Gifts, joy;EUR;-103.33;-103.33;Expenses;CASH;Cash;chocolate;2018-12-21 19:40:13;48.39852;9.98563;15;0;false;kaufhof;Bangladesh Trip 02.2019;2007;false
+Monthly expenses;Gifts, joy;EUR;-230.80;-230.80;Expenses;CASH;Cash;cosmetics;2018-12-21 19:00:11;48.39803;9.99041;15;0;false;Rossman;Bangladesh Trip 02.2019;2007;false
+Monthly expenses;Skype;EUR;-14.28;-14.28;Expenses;CASH;Cash;;2018-12-19 01:00:00;;;;0;false;PayPal;;7005;true
+Monthly expenses;Clothes & shoes;EUR;-25.00;-25.00;Expenses;CASH;Cash;winter boots (anwasha);2018-12-18 20:04:14;48.04671;11.65382;1200;0;false;shoe4you;Household;2000;false
+Monthly expenses;Restaurant, fast-food;EUR;-10.50;-10.50;Expenses;CASH;Cash;;2018-12-18 19:30:22;48.04262;11.66383;60;0;false;kfc;Household;1001;false
+Monthly expenses;Active sport, fitness;EUR;-19.96;-19.96;Expenses;CASH;Cash;;2018-12-17 08:30:00;;;;0;false;TrendyOne;Household;6002;false
+Monthly expenses;Electronics, accessories;EUR;-19.58;-19.58;Expenses;CASH;Cash;cloth iron;2018-12-16 22:48:02;48.40964;9.96418;14;0;false;amazon;;2006;false
+Monthly expenses;Groceries;EUR;-31.80;-31.80;Expenses;CASH;Cash;dry fruits;2018-12-16 22:47:22;48.40964;9.96418;14;0;false;amazon;Household;1000;false
+Monthly expenses;Electronics, accessories;EUR;-549.00;-549.00;Expenses;CASH;Cash;Oneplus 6T;2018-12-15 20:57:33;48.40964;9.96418;14;0;false;;;2006;false
+Monthly expenses;Clothes & shoes;EUR;-15.89;-15.89;Expenses;CASH;Cash;winter clothes;2018-12-15 19:33:24;48.39967;9.96142;15;0;false;c&a;Household;2000;false
+Monthly expenses;Drug-store, chemist;EUR;-14.97;-14.97;Expenses;CASH;Cash;;2018-12-15 19:13:44;48.39986;9.96081;26;0;false;;Household;2011;false
+Monthly expenses;Groceries;EUR;-23.38;-23.38;Expenses;CASH;Cash;;2018-12-15 18:28:22;48.37714;10.00643;100;0;false;lidl;Household;1000;false
+Monthly expenses;Gifts, joy;EUR;-20.00;-20.00;Expenses;CASH;Cash;alam vai;2018-12-15 17:57:13;48.38457;10.0228;1200;0;false;poco;Household;2007;false
+Monthly expenses;Home;EUR;-11.23;-11.23;Expenses;CASH;Cash;Christmas lights;2018-12-15 17:56:44;48.38695;10.02083;1000;0;false;poco;Household;2004;false
+Monthly expenses;Groceries;EUR;-5.00;-5.00;Expenses;CASH;Cash;;2018-12-15 15:20:36;48.40094;9.99676;16;0;false;bangla dokan ulm;Household;1000;false
+Monthly expenses;Public transport;EUR;-8.80;-8.80;Expenses;CASH;Cash;weinachtsmarkt tour;2018-12-12 20:10:09;48.4092;9.95956;15;0;false;;Household;4000;false
+Monthly expenses;Groceries;EUR;-4.07;-4.07;Expenses;CASH;Cash;;2018-12-12 20:09:20;48.40962;9.95909;25;0;false;Rewe;Household;1000;false
+Monthly expenses;Drug-store, chemist;EUR;-24.39;-24.39;Expenses;CASH;Cash;;2018-12-12 19:38:14;48.39758;9.99549;15;0;false;Rossman + dm;Household;2011;false
+Monthly expenses;Groceries;EUR;-22.42;-22.42;Expenses;CASH;Cash;;2018-12-12 09:53:10;48.39193;10.02203;100;0;false;dogancan;Household;1000;false
+Monthly expenses;Energy, utilities;EUR;-23.00;-23.00;Expenses;CASH;Cash;;2018-12-11 01:00:00;;;;0;false;Enbw;;3002;false
+Monthly expenses;Books, audio, subscriptions;EUR;-15.90;-15.90;Expenses;CASH;Cash;german language book 6;2018-12-10 19:30:59;48.40964;9.96418;14;0;false;thalia;Household;6007;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;mobile (anwasha);2018-12-10 01:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;mobile (asish);2018-12-10 01:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Restaurant, fast-food;EUR;-12.97;-12.97;Expenses;CASH;Cash;family kfc;2018-12-09 19:09:34;48.40164;9.97527;400;0;false;kfc;Household;1001;false
+Monthly expenses;Gifts, joy;EUR;-19.40;-19.40;Expenses;CASH;Cash;bd chocolate;2018-12-08 16:58:03;48.17799;11.63664;16;0;false;marktkauf;Bangladesh Trip 02.2019;2007;false
+Monthly expenses;Groceries;EUR;-18.18;-18.18;Expenses;CASH;Cash;;2018-12-08 16:57:33;48.17774;11.63664;15;0;false;marktkauf;Household;1000;false
+Monthly expenses;Groceries;EUR;-1.34;-1.34;Expenses;CASH;Cash;;2018-12-07 18:04:41;48.4096;9.96423;14;0;false;Rewe;Household;1000;false
+Monthly expenses;Groceries;EUR;-44.37;-44.37;Expenses;CASH;Cash;;2018-12-06 12:45:17;48.40114;9.97259;17;0;false;Aldi;Household;1000;false
+Monthly expenses;Others;EUR;-50.00;-50.00;Expenses;CASH;Cash;anwasha;2018-12-05 22:39:34;48.40964;9.96421;15;0;false;;;11000;false
+Monthly expenses;Electronics, accessories;EUR;-11.00;-11.00;Expenses;CASH;Cash;lenovo tab 4 cover;2018-12-05 15:30:00;;;;0;false;amazon;Household;2006;false
+Monthly expenses;Electronics, accessories;EUR;-160.00;-160.00;Expenses;CASH;Cash;lenovo tab 4;2018-12-04 15:30:00;;;;0;false;amazon;;2006;false
+Monthly expenses;Restaurant, fast-food;EUR;-3.60;-3.60;Expenses;CASH;Cash;breakfast;2018-12-02 11:10:25;48.39558;9.95419;15;0;false;bayer;Household;1001;false
+Monthly expenses;Groceries;EUR;-36.10;-36.10;Expenses;CASH;Cash;;2018-12-01 13:30:09;48.40964;9.96419;14;0;false;Haat Bazaar;Household;1000;false
+Monthly expenses;Groceries;EUR;-1.04;-1.04;Expenses;CASH;Cash;wasser;2018-12-01 12:07:54;48.13974;11.50349;23;0;false;;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-10.77;-10.77;Expenses;CASH;Cash;;2018-12-01 11:26:46;0.0;0.0;10;0;false;McDonald's;Household;1001;false
+Monthly expenses;Public transport;EUR;-12.80;-12.80;Expenses;CASH;Cash;Munich inner;2018-12-01 11:19:26;48.13969;11.50465;17;0;false;;Household;4000;false
+Monthly expenses;Parking;EUR;-25.00;-25.00;Expenses;CASH;Cash;Over speeding ticket;2018-12-01 07:10:27;48.40964;9.96419;14;0;false;;Household;5001;false
+Monthly expenses;Software, apps, games;EUR;-30.00;-30.00;Expenses;CASH;Cash;premium subscription for 2 months;2018-12-01 06:32:42;48.40964;9.96419;14;0;false;ImmobilienScout24;Household;7003;false
+Monthly expenses;Vehicle;EUR;-413.28;-413.28;Expenses;CASH;Cash;;2018-12-01 01:00:00;;;;0;false;BMW;;5004;false
+Monthly expenses;Rent;EUR;-774.89;-774.89;Expenses;CASH;Cash;;2018-12-01 01:00:00;;;;0;false;Vonovia;;3000;false
+Monthly expenses;TV, Streaming;EUR;-52.50;-52.50;Expenses;CASH;Cash;;2018-12-01 01:00:00;;;;0;false;ARD;;6008;false
+Monthly expenses;Groceries;EUR;-10.60;-10.60;Expenses;CASH;Cash;;2018-11-30 12:37:03;48.40112;9.97227;34;0;false;Aldi;Household;1000;false
+Monthly expenses;Internet;EUR;-20.00;-20.00;Expenses;CASH;Cash;;2018-11-27 01:00:00;;;;0;false;Vodafone;;7002;false
+Monthly expenses;Groceries;EUR;-8.67;-8.67;Expenses;CASH;Cash;;2018-11-24 19:43:18;48.40942;9.95901;31;0;false;Rewe;Household;1000;false
+Monthly expenses;Groceries;EUR;-19.62;-19.62;Expenses;CASH;Cash;;2018-11-23 19:48:37;48.3927;10.00298;15;0;false;Rewe;Household;1000;false
+Monthly expenses;Clothes & shoes;EUR;-33.80;-33.80;Expenses;CASH;Cash;;2018-11-23 19:25:02;48.39348;10.00426;25;0;false;c&a;Household;2000;false
+Monthly expenses;Clothes & shoes;EUR;-18.89;-18.89;Expenses;CASH;Cash;;2018-11-23 18:58:03;48.39323;10.00392;15;0;false;New York;Household;2000;false
+Monthly expenses;Active sport, fitness;EUR;-19.96;-19.96;Expenses;CASH;Cash;;2018-11-19 08:30:00;;;;0;false;TrendyOne;Household;6002;false
+Monthly expenses;Skype;EUR;-14.28;-14.28;Expenses;CASH;Cash;;2018-11-19 01:00:00;;;;0;false;PayPal;;7005;true
+Monthly expenses;Groceries;EUR;-21.80;-21.80;Expenses;CASH;Cash;;2018-11-17 19:47:03;48.40152;9.97265;47;0;false;Aldi;Household;1000;false
+Monthly expenses;Clothes & shoes;EUR;-22.95;-22.95;Expenses;CASH;Cash;winter clothes;2018-11-17 19:14:46;48.40292;9.9746;84;0;false;kik;Household;2000;false
+Monthly expenses;Gifts, joy;EUR;-7.98;-7.98;Expenses;CASH;Cash;aaron;2018-11-17 18:42:01;48.40406;9.96927;699;0;false;;Household;2007;false
+Monthly expenses;Groceries;EUR;-19.45;-19.45;Expenses;CASH;Cash;dogancan;2018-11-17 18:15:55;48.40259;9.97883;899;0;false;;Household;1000;false
+Monthly expenses;Groceries;EUR;-10.47;-10.47;Expenses;CASH;Cash;;2018-11-13 16:49:16;48.41924;9.93469;15;0;false;Rewe;Household;1000;false
+Monthly expenses;Gifts, joy;EUR;-30.00;-30.00;Expenses;CASH;Cash;Silvia's birthday;2018-11-12 19:25:30;48.40964;9.96417;14;0;false;;Household;2007;false
+Monthly expenses;Energy, utilities;EUR;-23.00;-23.00;Expenses;CASH;Cash;;2018-11-11 01:00:00;;;;0;false;Enbw;;3002;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;mobile (anwasha);2018-11-10 01:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;mobile (asish);2018-11-10 01:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Groceries;EUR;-45.03;-45.03;Expenses;CASH;Cash;;2018-11-09 20:05:28;48.5367;9.29084;58;0;false;lidl;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-11.18;-11.18;Expenses;CASH;Cash;;2018-11-08 12:30:56;48.40402;9.96967;1299;0;false;kfc;Household;1001;false
+Monthly expenses;Restaurant, fast-food;EUR;-3.80;-3.80;Expenses;CASH;Cash;breakfast;2018-11-06 09:56:46;48.39591;9.95499;17;0;false;;Household;1001;false
+Monthly expenses;Restaurant, fast-food;EUR;-9.49;-9.49;Expenses;CASH;Cash;;2018-11-05 17:51:03;48.40494;9.96999;1399;0;false;kfc;Household;1001;false
+Monthly expenses;Others;EUR;-15.00;-15.00;Expenses;CASH;Cash;anwasha;2018-11-04 23:18:54;48.40965;9.96416;14;0;false;;Household;11000;false
+Monthly expenses;Rent;EUR;-774.89;-774.89;Expenses;CASH;Cash;;2018-11-01 01:00:00;;;;0;false;Vonovia;;3000;false
+Monthly expenses;Insurances;EUR;-76.17;-76.17;Expenses;CASH;Cash;;2018-11-01 01:00:00;;;;0;false;VHV Versicherungen;;8001;false
+Monthly expenses;Vehicle;EUR;-413.28;-413.28;Expenses;CASH;Cash;;2018-11-01 01:00:00;;;;0;false;BMW;;5004;false
+Monthly expenses;Groceries;EUR;-13.21;-13.21;Expenses;CASH;Cash;;2018-10-31 19:01:25;48.40138;9.97254;60;0;false;Aldi;Household;1000;false
+Monthly expenses;Groceries;EUR;-38.70;-38.70;Expenses;CASH;Cash;;2018-10-30 19:48:16;48.40124;9.97403;17;0;false;Rewe;Household;1000;false
+Monthly expenses;Home;EUR;-29.93;-29.93;Expenses;CASH;Cash;;2018-10-30 18:50:36;48.40079;9.97779;1600;0;false;ikea;Household;2004;false
+Monthly expenses;Wellness, beauty;EUR;-17.50;-17.50;Expenses;CASH;Cash;laundry;2018-10-29 19:15:35;48.39492;9.96878;17;0;false;;Household;6001;false
+Monthly expenses;Groceries;EUR;-2.62;-2.62;Expenses;CASH;Cash;;2018-10-27 23:10:18;48.40627;9.95837;699;0;false;Rewe;Household;1000;false
+Monthly expenses;Internet;EUR;-20.00;-20.00;Expenses;CASH;Cash;;2018-10-27 02:00:00;;;;0;false;Vodafone;;7002;false
+Monthly expenses;Groceries;EUR;-20.00;-20.00;Expenses;CASH;Cash;;2018-10-26 18:28:52;48.40964;9.96418;14;0;false;;Household;1000;false
+Monthly expenses;Shopping;EUR;-120.00;-120.00;Expenses;CASH;Cash;anwasha;2018-10-24 21:20:01;48.40964;9.96417;14;0;false;;Household;2010;false
+Monthly expenses;Health care, doctor;EUR;-5.00;-5.00;Expenses;CASH;Cash;;2018-10-23 12:43:47;48.40964;9.96418;15;0;false;;Household;6000;false
+Monthly expenses;Groceries;EUR;-10.48;-10.48;Expenses;CASH;Cash;;2018-10-22 19:05:20;48.40964;9.96416;14;0;false;Rewe;Household;1000;false
+Monthly expenses;Groceries;EUR;-16.68;-16.68;Expenses;CASH;Cash;;2018-10-22 18:17:11;48.40124;9.97253;28;0;false;Aldi;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-1.10;-1.10;Expenses;CASH;Cash;ice cream;2018-10-22 17:33:54;48.39969;9.96115;17;0;false;;Household;1001;false
+Monthly expenses;Books, audio, subscriptions;EUR;-31.80;-31.80;Expenses;CASH;Cash;deutsch kurs buch;2018-10-22 17:22:34;48.39966;9.9615;17;0;false;thalia;Household;6007;false
+Monthly expenses;Gifts, joy;EUR;-49.90;-49.90;Expenses;CASH;Cash;necklace;2018-10-22 16:58:58;48.39962;9.96128;25;0;false;;Household;2007;false
+Monthly expenses;Active sport, fitness;EUR;-19.96;-19.96;Expenses;CASH;Cash;;2018-10-22 08:30:00;;;;0;false;TrendyOne;Household;6002;false
+Monthly expenses;Groceries;EUR;-7.68;-7.68;Expenses;CASH;Cash;;2018-10-20 18:18:14;48.13906;11.51478;15;0;false;penny;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-8.76;-8.76;Expenses;CASH;Cash;McDonald's;2018-10-20 13:06:35;48.05675;11.60223;14;0;false;;Household;1001;false
+Monthly expenses;Skype;EUR;-14.28;-14.28;Expenses;CASH;Cash;;2018-10-19 02:00:00;;;;0;false;PayPal;;7005;true
+Monthly expenses;Restaurant, fast-food;EUR;-10.49;-10.49;Expenses;CASH;Cash;;2018-10-18 12:30:56;48.40964;9.96417;15;0;false;kfc;Household;1001;false
+Monthly expenses;Groceries;EUR;-3.00;-3.00;Expenses;CASH;Cash;water;2018-10-17 21:56:07;48.40964;9.96415;14;0;false;;Household;1000;false
+Monthly expenses;Culture, sport events;EUR;-10.00;-10.00;Expenses;CASH;Cash;durga puja;2018-10-17 21:55:28;48.40964;9.96417;14;0;false;;Household;6003;false
+Monthly expenses;Groceries;EUR;-74.00;-74.00;Expenses;CASH;Cash;;2018-10-17 18:30:56;48.40964;9.96415;14;0;false;Haat Bazaar;Household;1000;false
+Monthly expenses;Groceries;EUR;-11.44;-11.44;Expenses;CASH;Cash;condom;2018-10-15 19:25:10;48.40033;9.95912;232;0;false;Mueller;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-6.97;-6.97;Expenses;CASH;Cash;McDonald's;2018-10-15 00:33:38;48.40057;9.96514;16;0;false;;Household;1001;false
+Monthly expenses;Holiday, trips, hotels;EUR;-16.50;-16.50;Expenses;CASH;Cash;cologne;2018-10-13 19:06:20;50.94575;6.96904;800;0;false;;Household;6009;false
+Monthly expenses;Holiday, trips, hotels;EUR;-5.00;-5.00;Expenses;CASH;Cash;lock, cologne;2018-10-13 17:30:17;50.98446;7.10188;50;0;false;;Household;6009;false
+Monthly expenses;Gifts, joy;EUR;-18.00;-18.00;Expenses;CASH;Cash;bithi gift;2018-10-13 10:48:44;50.86481;6.97185;800;0;false;;Household;2007;false
+Monthly expenses;Energy, utilities;EUR;-23.00;-23.00;Expenses;CASH;Cash;;2018-10-11 02:00:00;;;;0;false;Enbw;;3002;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;mobile (asish);2018-10-10 02:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;mobile (anwasha);2018-10-10 02:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Groceries;EUR;-20.86;-20.86;Expenses;CASH;Cash;;2018-10-06 19:43:36;48.40115;9.97408;15;0;false;kaufland;Household;1000;false
+Monthly expenses;Groceries;EUR;-34.24;-34.24;Expenses;CASH;Cash;;2018-10-06 19:32:50;48.40112;9.97396;16;0;false;aldi;Household;1000;false
+Monthly expenses;Gifts, joy;EUR;-10.00;-10.00;Expenses;CASH;Cash;didi;2018-10-06 18:15:09;48.40385;9.97709;118;0;false;;Household;2007;false
+Monthly expenses;Groceries;EUR;-2.87;-2.87;Expenses;CASH;Cash;;2018-10-05 19:52:03;48.40962;9.95909;15;0;false;Rewe;Household;1000;false
+Monthly expenses;Drug-store, chemist;EUR;-15.04;-15.04;Expenses;CASH;Cash;medicine for skin;2018-10-05 15:38:01;48.41917;9.93476;14;0;false;;Household;2011;false
+Monthly expenses;Books, audio, subscriptions;EUR;-33.12;-33.12;Expenses;CASH;Cash;german a2. 2;2018-10-05 15:36:12;48.41917;9.93476;15;0;false;thalia;Household;6007;false
+Monthly expenses;Drug-store, chemist;EUR;-14.55;-14.55;Expenses;CASH;Cash;face hydration cream;2018-10-05 12:15:54;48.40974;9.96429;24;0;false;;Household;2011;false
+Monthly expenses;Restaurant, fast-food;EUR;-9.00;-9.00;Expenses;CASH;Cash;breakfast;2018-10-05 10:14:18;48.41444;9.92457;15;0;false;;Household;1001;false
+Monthly expenses;Public transport;EUR;-4.40;-4.40;Expenses;CASH;Cash;;2018-10-02 13:35:55;48.41888;9.93799;160;0;false;;Household;4000;false
+Monthly expenses;Gifts, joy;EUR;-35.00;-35.00;Expenses;CASH;Cash;anwasha;2018-10-01 18:38:15;;;;0;false;;Household;2007;false
+Monthly expenses;Vehicle;EUR;-413.28;-413.28;Expenses;CASH;Cash;;2018-10-01 02:00:00;;;;0;false;BMW;;5004;false
+Monthly expenses;Rent;EUR;-774.89;-774.89;Expenses;CASH;Cash;;2018-10-01 02:00:00;;;;0;false;Vonovia;;3000;false
+Monthly expenses;Life & Entertainment;EUR;-24.00;-24.00;Expenses;CASH;Cash;oktoberfest;2018-09-30 22:38:55;48.13497;11.51177;16;0;false;;Household;6013;false
+Monthly expenses;Groceries;EUR;-13.73;-13.73;Expenses;CASH;Cash;;2018-09-29 19:34:01;48.40389;9.9774;92;0;false;kaufland;Household;1000;false
+Monthly expenses;Parking;EUR;-10.00;-10.00;Expenses;CASH;Cash;Saturday Deutsch kurs;2018-09-29 14:31:22;48.40964;9.96415;14;0;false;;Household;5001;false
+Monthly expenses;Clothes & shoes;EUR;-40.00;-40.00;Expenses;CASH;Cash;jacket;2018-09-29 14:20:12;48.39816;9.98824;16;0;false;;Household;2000;false
+Monthly expenses;Internet;EUR;-20.00;-20.00;Expenses;CASH;Cash;;2018-09-27 02:00:00;;;;0;false;Vodafone;;7002;false
+Monthly expenses;Groceries;EUR;-26.10;-26.10;Expenses;CASH;Cash;dogancan;2018-09-25 17:51:32;48.39208;10.02094;230;0;false;;Household;1000;false
+Monthly expenses;Groceries;EUR;-15.20;-15.20;Expenses;CASH;Cash;vietnamese grocery;2018-09-25 17:31:36;48.41918;9.93474;16;0;false;;Household;1000;false
+Monthly expenses;Active sport, fitness;EUR;-19.96;-19.96;Expenses;CASH;Cash;;2018-09-24 08:45:00;;;;0;false;TrendyOne;Household;6002;false
+Monthly expenses;Restaurant, fast-food;EUR;-28.00;-28.00;Expenses;CASH;Cash;dinner;2018-09-23 20:46:59;48.40005;9.99666;15;0;false;;Household;1001;false
+Monthly expenses;Home;EUR;-3.00;-3.00;Expenses;CASH;Cash;flower;2018-09-23 18:30:26;48.40963;9.96415;14;0;false;;Household;2004;false
+Monthly expenses;Restaurant, fast-food;EUR;-42.00;-42.00;Expenses;CASH;Cash;lunch with Khaled vai;2018-09-23 15:06:03;48.40881;9.96452;17;0;false;;Household;1001;false
+Monthly expenses;Groceries;EUR;-6.28;-6.28;Expenses;CASH;Cash;;2018-09-22 12:16:36;48.40962;9.9591;17;0;false;Rewe;Household;1000;false
+Monthly expenses;Wellness, beauty;EUR;-29.00;-29.00;Expenses;CASH;Cash;haircut anwasha;2018-09-21 11:24:14;48.40962;9.96414;14;0;false;;Household;6001;false
+Monthly expenses;Clothes & shoes;EUR;-20.00;-20.00;Expenses;CASH;Cash;shoe anwasha;2018-09-21 11:23:42;48.40962;9.96414;14;0;false;;Household;2000;false
+Monthly expenses;Skype;EUR;-14.28;-14.28;Expenses;CASH;Cash;;2018-09-19 02:00:00;;;;0;false;PayPal;;7005;true
+Monthly expenses;Groceries;EUR;-14.93;-14.93;Expenses;CASH;Cash;;2018-09-18 20:05:41;48.40962;9.95908;319;0;false;Rewe;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-3.50;-3.50;Expenses;CASH;Cash;breakfast;2018-09-18 09:41:41;48.39621;9.95387;15;0;false;;Household;1001;false
+Monthly expenses;Wellness, beauty;EUR;-12.00;-12.00;Expenses;CASH;Cash;haircut asish;2018-09-17 11:25:01;48.40962;9.96413;14;0;false;;Household;6001;false
+Monthly expenses;Restaurant, fast-food;EUR;-12.72;-12.72;Expenses;CASH;Cash;pizza night;2018-09-16 20:34:22;48.28519;10.11644;2406;0;false;;Household;1001;false
+Monthly expenses;Groceries;EUR;-15.87;-15.87;Expenses;CASH;Cash;;2018-09-15 17:58:37;48.40961;9.95907;23;0;false;Rewe;Household;1000;false
+Monthly expenses;Clothes & shoes;EUR;-12.99;-12.99;Expenses;CASH;Cash;sweater (ani);2018-09-15 17:17:38;48.39992;9.96049;13;0;false;;Household;2000;false
+Monthly expenses;Home;EUR;-22.92;-22.92;Expenses;CASH;Cash;terrarium;2018-09-15 16:13:17;48.40365;9.97396;699;0;false;ikea;Household;2004;false
+Monthly expenses;Home;EUR;-5.37;-5.37;Expenses;CASH;Cash;terrarium;2018-09-15 15:18:39;48.40031;9.97058;47;0;false;bauhaus;Household;2004;false
+Monthly expenses;Home;EUR;-42.91;-42.91;Expenses;CASH;Cash;terrarium;2018-09-15 14:40:51;48.40182;9.97034;116;0;false;hornbach;Household;2004;false
+Monthly expenses;Restaurant, fast-food;EUR;-9.50;-9.50;Expenses;CASH;Cash;kfc;2018-09-15 12:38:13;48.40144;9.97399;800;0;false;;Household;1001;false
+Monthly expenses;Clothes & shoes;EUR;-43.82;-43.82;Expenses;CASH;Cash;drindl;2018-09-13 21:58:41;48.40962;9.96413;14;0;false;;Household;2000;false
+Monthly expenses;Restaurant, fast-food;EUR;-2.60;-2.60;Expenses;CASH;Cash;breakfast;2018-09-13 10:48:09;48.39795;9.9534;15;0;false;;Household;1001;false
+Monthly expenses;Groceries;EUR;-2.09;-2.09;Expenses;CASH;Cash;;2018-09-12 22:38:29;48.40961;9.96412;14;0;false;Rewe;Household;1000;false
+Monthly expenses;Energy, utilities;EUR;-23.00;-23.00;Expenses;CASH;Cash;;2018-09-11 02:00:00;;;;0;false;Enbw;;3002;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;mobile (anwasha);2018-09-10 02:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;mobile (asish);2018-09-10 02:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Groceries;EUR;-108.00;-108.00;Expenses;CASH;Cash;bangla dokan Stuttgart;2018-09-08 19:30:21;48.64394;9.42941;22;0;false;;Household;1000;false
+Monthly expenses;Groceries;EUR;-55.50;-55.50;Expenses;CASH;Cash;Kashmir Bazar Stuttgart;2018-09-08 18:30:02;48.76925;9.18377;26;0;false;;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-12.00;-12.00;Expenses;CASH;Cash;kfc;2018-09-08 15:01:09;48.40961;9.96414;14;0;false;;Household;1001;false
+Monthly expenses;Drug-store, chemist;EUR;-38.00;-38.00;Expenses;CASH;Cash;;2018-09-08 15:00:15;48.40961;9.96414;14;0;false;;Household;2011;false
+Monthly expenses;Parking;EUR;-35.00;-35.00;Expenses;CASH;Cash;parking fine;2018-09-08 10:01:08;48.40961;9.96414;14;0;false;;;5001;false
+Monthly expenses;Restaurant, fast-food;EUR;-11.00;-11.00;Expenses;CASH;Cash;;2018-09-07 18:32:52;48.39612;9.99538;10;0;false;König Kebap;;1001;false
+Monthly expenses;Groceries;EUR;-8.49;-8.49;Expenses;CASH;Cash;visit mitu boudi;2018-09-07 17:12:53;48.40969;9.95931;10;0;false;REWE;;1000;false
+Monthly expenses;Groceries;EUR;-14.20;-14.20;Expenses;CASH;Cash;;2018-09-05 20:38:44;48.40117;9.97237;47;0;false;Aldi;Household;1000;false
+Monthly expenses;Home;EUR;-9.96;-9.96;Expenses;CASH;Cash;plants + pot;2018-09-05 20:07:39;48.40022;9.96996;58;0;false;bauhaus;Household;2004;false
+Monthly expenses;Groceries;EUR;-6.24;-6.24;Expenses;CASH;Cash;;2018-09-03 19:31:17;48.40961;9.95911;208;0;false;Rewe;Household;1000;false
+Monthly expenses;Groceries;EUR;-6.05;-6.05;Expenses;CASH;Cash;;2018-09-03 19:12:57;48.40118;9.97235;60;0;false;Aldi;Household;1000;false
+Monthly expenses;Groceries;EUR;-20.72;-20.72;Expenses;CASH;Cash;;2018-09-01 22:31:03;48.40964;9.96415;14;0;false;Kaufland;Household;1000;false
+Monthly expenses;Gifts, joy;EUR;-50.00;-50.00;Expenses;CASH;Cash;anwasha;2018-09-01 18:37:40;48.36813;9.99843;2000;0;false;;Household;2007;false
+Monthly expenses;Rent;EUR;-774.89;-774.89;Expenses;CASH;Cash;;2018-09-01 02:00:00;;;;0;false;Vonovia;;3000;false
+Monthly expenses;Vehicle;EUR;-413.28;-413.28;Expenses;CASH;Cash;;2018-09-01 02:00:00;;;;0;false;BMW;;5004;false
+Monthly expenses;TV, Streaming;EUR;-52.50;-52.50;Expenses;CASH;Cash;;2018-09-01 02:00:00;;;;0;false;ARD;;6008;false
+Monthly expenses;Groceries;EUR;-3.11;-3.11;Expenses;CASH;Cash;;2018-08-29 19:18:48;48.40954;9.95893;17;0;false;Rewe;Household;1000;false
+Monthly expenses;Parking;EUR;-15.00;-15.00;Expenses;CASH;Cash;ticket;2018-08-29 13:16:21;48.41921;9.93473;16;0;false;;Household;5001;false
+Monthly expenses;Groceries;EUR;-4.08;-4.08;Expenses;CASH;Cash;;2018-08-28 19:42:46;48.4097;9.95926;28;0;false;Rewe;Household;1000;false
+Monthly expenses;Groceries;EUR;-16.93;-16.93;Expenses;CASH;Cash;;2018-08-28 19:26:18;48.40243;9.96991;699;0;false;Aldi;Household;1000;false
+Monthly expenses;Groceries;EUR;-17.31;-17.31;Expenses;CASH;Cash;;2018-08-28 18:01:03;48.39206;10.02095;10;0;false;Dogancan Center;Household;1000;false
+Monthly expenses;Parking;EUR;-4.00;-4.00;Expenses;CASH;Cash;hospital;2018-08-27 23:25:50;48.41333;9.94959;400;0;false;;Household;5001;false
+Monthly expenses;Groceries;EUR;-6.00;-6.00;Expenses;CASH;Cash;;2018-08-27 23:25:42;48.41228;9.94721;500;0;false;Rewe;Household;1000;false
+Monthly expenses;Active sport, fitness;EUR;-19.96;-19.96;Expenses;CASH;Cash;;2018-08-27 09:00:00;;;;0;false;TrendyOne;Household;6002;false
+Monthly expenses;Internet;EUR;-20.00;-20.00;Expenses;CASH;Cash;;2018-08-27 02:00:00;;;;0;false;Vodafone;;7002;false
+Monthly expenses;Restaurant, fast-food;EUR;-12.00;-12.00;Expenses;CASH;Cash;p8zza;2018-08-27 00:02:34;48.40963;9.96415;14;0;false;Domino's;Household;1001;false
+Monthly expenses;Groceries;EUR;-7.29;-7.29;Expenses;CASH;Cash;;2018-08-25 16:19:50;48.40934;9.9591;17;0;false;Rewe;Household;1000;false
+Monthly expenses;Groceries;EUR;-7.04;-7.04;Expenses;CASH;Cash;;2018-08-24 19:21:19;48.40142;9.97313;56;0;false;Aldi;Household;1000;false
+Monthly expenses;Groceries;EUR;-29.69;-29.69;Expenses;CASH;Cash;;2018-08-21 20:17:31;48.40961;9.96414;14;0;false;Rewe;Household;1000;false
+Monthly expenses;Groceries;EUR;-7.98;-7.98;Expenses;CASH;Cash;;2018-08-20 15:00:00;;;;0;false;dogancan;Household;1000;false
+Monthly expenses;Skype;EUR;-14.28;-14.28;Expenses;CASH;Cash;;2018-08-19 02:00:00;;;;0;false;PayPal;;7005;true
+Monthly expenses;Parking;EUR;-20.00;-20.00;Expenses;CASH;Cash;parking fine;2018-08-17 10:02:33;48.40961;9.96414;14;0;false;;;5001;false
+Monthly expenses;Restaurant, fast-food;EUR;-20.00;-20.00;Expenses;CASH;Cash;;2018-08-16 18:30:50;48.40925;9.9643;28;0;false;data engineering dinner;Household;1001;false
+Monthly expenses;Groceries;EUR;-48.01;-48.01;Expenses;CASH;Cash;;2018-08-14 19:34:50;48.41326;9.92081;30;0;false;lidl;Household;1000;false
+Monthly expenses;Stationery, tools;EUR;-1.45;-1.45;Expenses;CASH;Cash;letter to Bamberg university;2018-08-13 17:28:21;48.40864;9.96728;26;0;false;;Household;2008;false
+Monthly expenses;Drug-store, chemist;EUR;-9.99;-9.99;Expenses;CASH;Cash;condom;2018-08-13 17:28:03;48.40855;9.96723;28;0;false;;Household;2011;false
+Monthly expenses;Parking;EUR;-1.80;-1.80;Expenses;CASH;Cash;;2018-08-11 18:06:04;48.10206;11.64555;31;0;false;primark;Household;5001;false
+Monthly expenses;Clothes & shoes;EUR;-8.00;-8.00;Expenses;CASH;Cash;;2018-08-11 18:05:43;48.10206;11.64555;29;0;false;primark;Household;2000;false
+Monthly expenses;Restaurant, fast-food;EUR;-42.00;-42.00;Expenses;CASH;Cash;eibsee lunch;2018-08-11 14:10:19;47.45656;10.98852;116;0;false;;Household;1001;false
+Monthly expenses;Holiday, trips, hotels;EUR;-112.00;-112.00;Expenses;CASH;Cash;zuckspitze;2018-08-11 14:09:47;47.45656;10.98852;64;0;false;;Household;6009;false
+Monthly expenses;Energy, utilities;EUR;-23.00;-23.00;Expenses;CASH;Cash;;2018-08-11 02:00:00;;;;0;false;Enbw;;3002;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;mobile (asish);2018-08-10 02:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;mobile (anwasha);2018-08-10 02:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Wellness, beauty;EUR;-31.88;-31.88;Expenses;CASH;Cash;;2018-08-09 17:37:07;48.39937;9.99113;15;0;false;body shop;Household;6001;false
+Monthly expenses;Groceries;EUR;-5.05;-5.05;Expenses;CASH;Cash;;2018-08-08 21:39:46;48.40961;9.96414;14;0;false;Rewe;Household;1000;false
+Monthly expenses;Clothes & shoes;EUR;-15.00;-15.00;Expenses;CASH;Cash;;2018-08-08 21:08:03;48.40961;9.96414;14;0;false;c&a;Household;2000;false
+Monthly expenses;Books, audio, subscriptions;EUR;-32.00;-32.00;Expenses;CASH;Cash;schritte plus neu 3;2018-08-08 20:28:11;48.40964;9.96415;14;0;false;thalia;Household;6007;false
+Monthly expenses;Groceries;EUR;-26.60;-26.60;Expenses;CASH;Cash;;2018-08-06 19:42:56;48.40151;9.97683;600;0;false;Aldi;Household;1000;false
+Monthly expenses;Holiday, trips, hotels;EUR;-66.00;-66.00;Expenses;CASH;Cash;Neuschwanstein castle 🏰;2018-08-04 23:15:13;48.40963;9.96415;14;0;false;;Household;6009;false
+Monthly expenses;Parking;EUR;-1.80;-1.80;Expenses;CASH;Cash;;2018-08-04 19:28:38;48.10129;11.64468;203;0;false;primark;Household;5001;false
+Monthly expenses;Clothes & shoes;EUR;-61.50;-61.50;Expenses;CASH;Cash;;2018-08-04 19:28:16;48.10129;11.64468;56;0;false;primark;Household;2000;false
+Monthly expenses;Groceries;EUR;-5.50;-5.50;Expenses;CASH;Cash;gift;2018-08-03 21:06:13;48.40918;9.95971;17;0;false;Rewe;Household;1000;false
+Monthly expenses;Groceries;EUR;-6.45;-6.45;Expenses;CASH;Cash;turkish grocery;2018-08-03 17:55:10;48.40962;9.96414;17;0;false;;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-35.00;-35.00;Expenses;CASH;Cash;;2018-08-02 20:06:17;48.39499;9.96909;16;0;false;Shalimar;Household;1001;false
+Monthly expenses;Wellness, beauty;EUR;-15.50;-15.50;Expenses;CASH;Cash;laundry;2018-08-02 20:05:05;48.39499;9.96909;16;0;false;;Household;6001;false
+Monthly expenses;Groceries;EUR;-10.47;-10.47;Expenses;CASH;Cash;;2018-08-01 19:32:37;48.40675;9.9529;1399;0;false;rewe;Household;1000;false
+Monthly expenses;Vehicle;EUR;-413.28;-413.28;Expenses;CASH;Cash;;2018-08-01 02:00:00;;;;0;false;BMW;;5004;false
+Monthly expenses;Rent;EUR;-774.89;-774.89;Expenses;CASH;Cash;;2018-08-01 02:00:00;;;;0;false;Vonovia;;3000;false
+Monthly expenses;Gifts, joy;EUR;-9.80;-9.80;Expenses;CASH;Cash;Hritisha;2018-07-30 19:30:25;48.40967;9.95942;45;0;false;;Household;2007;false
+Monthly expenses;Electronics, accessories;EUR;-59.99;-59.99;Expenses;CASH;Cash;fan;2018-07-30 13:25:19;48.41918;9.93478;15;0;false;mediamarkt;Household;2006;false
+Monthly expenses;Active sport, fitness;EUR;-19.96;-19.96;Expenses;CASH;Cash;;2018-07-30 09:00:00;;;;0;false;TrendyOne;Household;6002;false
+Monthly expenses;Groceries;EUR;-65.00;-65.00;Expenses;CASH;Cash;haat bazaar;2018-07-28 13:23:04;48.41919;9.93478;16;0;false;;Household;1000;false
+Monthly expenses;Gifts, joy;EUR;-7.93;-7.93;Expenses;CASH;Cash;;2018-07-28 13:00:55;48.4096;9.95908;47;0;false;;Household;2007;false
+Monthly expenses;Groceries;EUR;-5.97;-5.97;Expenses;CASH;Cash;;2018-07-27 14:53:46;48.40969;9.95931;10;0;false;REWE;Household;1000;false
+Monthly expenses;Gifts, joy;EUR;-10.95;-10.95;Expenses;CASH;Cash;;2018-07-27 14:18:20;48.39825;9.98822;15;0;false;;Household;2007;false
+Monthly expenses;Internet;EUR;-20.00;-20.00;Expenses;CASH;Cash;;2018-07-27 02:00:00;;;;0;false;Vodafone;;7002;false
+Monthly expenses;Parking;EUR;-20.00;-20.00;Expenses;CASH;Cash;;2018-07-26 13:24:15;48.41919;9.93478;16;0;false;;Household;5001;false
+Monthly expenses;Groceries;EUR;-20.00;-20.00;Expenses;CASH;Cash;;2018-07-26 12:34:19;48.40123;9.97397;48;0;false;;Household;1000;false
+Monthly expenses;Health and beauty;EUR;-2.95;-2.95;Expenses;CASH;Cash;;2018-07-26 12:16:46;48.40118;9.97446;17;0;false;;Household;2002;false
+Monthly expenses;Groceries;EUR;-1.50;-1.50;Expenses;CASH;Cash;;2018-07-26 12:16:33;48.40408;9.98675;469;0;false;;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-3.25;-3.25;Expenses;CASH;Cash;uni library;2018-07-26 12:16:12;48.40408;9.98675;446;0;false;;Household;1001;false
+Monthly expenses;Groceries;EUR;-11.82;-11.82;Expenses;CASH;Cash;;2018-07-25 21:00:24;48.40961;9.96414;14;0;false;kaufland;Household;1000;false
+Monthly expenses;Groceries;EUR;-18.57;-18.57;Expenses;CASH;Cash;;2018-07-25 20:35:06;48.40961;9.96414;14;0;false;rewe;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-5.60;-5.60;Expenses;CASH;Cash;ice cream;2018-07-23 17:13:47;48.39822;9.99013;232;0;false;;Household;1001;false
+Monthly expenses;Restaurant, fast-food;EUR;-11.50;-11.50;Expenses;CASH;Cash;;2018-07-22 22:05:07;48.40331;9.97425;699;0;false;kfc;Household;1001;false
+Monthly expenses;Restaurant, fast-food;EUR;-4.40;-4.40;Expenses;CASH;Cash;;2018-07-22 08:20:46;48.13924;11.51102;15;0;false;;Household;1001;false
+Monthly expenses;Home;EUR;-22.56;-22.56;Expenses;CASH;Cash;kitchen;2018-07-21 16:06:11;48.32752;10.03667;15;0;false;;Household;2004;false
+Monthly expenses;Groceries;EUR;-13.72;-13.72;Expenses;CASH;Cash;;2018-07-19 19:18:01;48.4096;9.95908;43;0;false;;Household;1000;false
+Monthly expenses;Skype;EUR;-14.28;-14.28;Expenses;CASH;Cash;;2018-07-19 02:00:00;;;;0;false;PayPal;;7005;true
+Monthly expenses;Groceries;EUR;-20.00;-20.00;Expenses;CASH;Cash;;2018-07-16 19:33:03;48.40961;9.96414;14;0;false;;Household;1000;false
+Monthly expenses;Home;EUR;-8.78;-8.78;Expenses;CASH;Cash;;2018-07-16 15:03:06;48.40372;9.97655;28;0;false;ikea;Household;2004;false
+Monthly expenses;Groceries;EUR;-7.24;-7.24;Expenses;CASH;Cash;;2018-07-16 12:46:17;48.41423;9.94573;15;0;false;rewe;Household;1000;false
+Monthly expenses;Groceries;EUR;-5.65;-5.65;Expenses;CASH;Cash;;2018-07-14 21:50:16;48.40961;9.96412;14;0;false;rewe;Household;1000;false
+Monthly expenses;Groceries;EUR;-14.50;-14.50;Expenses;CASH;Cash;;2018-07-14 21:49:58;48.40961;9.96412;14;0;false;kaufland;Household;1000;false
+Monthly expenses;Parking;EUR;-12.00;-12.00;Expenses;CASH;Cash;brigenz;2018-07-14 17:31:10;47.50655;9.7485;1100;0;false;;Household;5001;false
+Monthly expenses;Holiday, trips, hotels;EUR;-26.00;-26.00;Expenses;CASH;Cash;brigenz;2018-07-14 17:30:38;47.50655;9.7485;1100;0;false;;Household;6009;false
+Monthly expenses;Groceries;EUR;-16.00;-16.00;Expenses;CASH;Cash;;2018-07-12 20:20:13;48.40932;9.95945;30;0;false;rewe;Household;1000;false
+Monthly expenses;Groceries;EUR;-11.99;-11.99;Expenses;CASH;Cash;;2018-07-12 19:52:15;48.40116;9.9724;56;0;false;aldi;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-40.50;-40.50;Expenses;CASH;Cash;date night;2018-07-12 19:50:23;48.40327;9.97464;600;0;false;;Household;1001;false
+Monthly expenses;Energy, utilities;EUR;-23.00;-23.00;Expenses;CASH;Cash;;2018-07-11 02:00:00;;;;0;false;Enbw;;3002;false
+Monthly expenses;Restaurant, fast-food;EUR;-8.50;-8.50;Expenses;CASH;Cash;lunch;2018-07-10 12:56:18;48.40862;9.96735;10;0;false;;Household;1001;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;mobile (asish);2018-07-10 02:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;mobile (anwasha);2018-07-10 02:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Gifts, joy;EUR;-15.00;-15.00;Expenses;CASH;Cash;marian;2018-07-07 18:37:18;48.13793;11.56498;11;0;false;;Household;2007;false
+Monthly expenses;Gifts, joy;EUR;-23.50;-23.50;Expenses;CASH;Cash;Hritisha;2018-07-07 17:26:05;48.13852;11.56551;17;0;false;;Household;2007;false
+Monthly expenses;Groceries;EUR;-45.00;-45.00;Expenses;CASH;Cash;;2018-07-07 17:25:15;48.13836;11.56503;30;0;false;haat bazaar;Household;1000;false
+Monthly expenses;Groceries;EUR;-10.33;-10.33;Expenses;CASH;Cash;;2018-07-06 21:51:13;48.40961;9.96413;14;0;false;rewe;Household;1000;false
+Monthly expenses;Home;EUR;-39.43;-39.43;Expenses;CASH;Cash;;2018-07-06 21:23:46;48.4096;9.96412;14;0;false;poco;Household;2004;false
+Monthly expenses;Groceries;EUR;-27.29;-27.29;Expenses;CASH;Cash;;2018-07-06 20:44:15;48.40273;9.97001;600;0;false;aldi;Household;1000;false
+Monthly expenses;Home;EUR;-43.89;-43.89;Expenses;CASH;Cash;plants;2018-07-06 20:05:34;48.39216;10.01892;68;0;false;hornbach;Household;2004;false
+Monthly expenses;Groceries;EUR;-22.22;-22.22;Expenses;CASH;Cash;turkish grocery;2018-07-06 19:22:02;48.39159;10.01934;22;0;false;dogancan center;Household;1000;false
+Monthly expenses;Life & Entertainment;EUR;-27.75;-27.75;Expenses;CASH;Cash;movie date;2018-07-04 21:19:51;48.38348;10.00569;64;0;false;;Household;6013;false
+Monthly expenses;Drug-store, chemist;EUR;-8.99;-8.99;Expenses;CASH;Cash;;2018-07-04 14:20:20;48.40868;9.9664;15;0;false;;Household;2011;false
+Monthly expenses;Groceries;EUR;-11.19;-11.19;Expenses;CASH;Cash;;2018-07-03 20:14:56;48.40937;9.95873;15;0;false;rewe;Household;1000;false
+Monthly expenses;Active sport, fitness;EUR;-19.96;-19.96;Expenses;CASH;Cash;;2018-07-02 09:00:00;;;;0;false;TrendyOne;Household;6002;false
+Monthly expenses;Vehicle;EUR;-413.28;-413.28;Expenses;CASH;Cash;;2018-07-01 02:00:00;;;;0;false;BMW;;5004;false
+Monthly expenses;Rent;EUR;-774.89;-774.89;Expenses;CASH;Cash;;2018-07-01 02:00:00;;;;0;false;Vonovia;;3000;false
+Monthly expenses;Groceries;EUR;-20.21;-20.21;Expenses;CASH;Cash;;2018-06-30 14:47:44;48.40953;9.95911;16;0;false;rewe;Household;1000;false
+Monthly expenses;Stationery, tools;EUR;-17.80;-17.80;Expenses;CASH;Cash;german language book 2, pen;2018-06-28 19:23:20;48.39931;9.96306;1710;0;false;thalia, Mueller;Household;2008;false
+Monthly expenses;Internet;EUR;-20.00;-20.00;Expenses;CASH;Cash;;2018-06-27 02:00:00;;;;0;false;Vodafone;;7002;false
+Monthly expenses;Groceries;EUR;-37.95;-37.95;Expenses;CASH;Cash;;2018-06-25 20:06:52;48.40966;9.95945;60;0;false;rewe;Household;1000;false
+Monthly expenses;Others;EUR;-195.00;-195.00;Expenses;CASH;Cash;language course a1.2 Anwasha;2018-06-25 19:19:19;48.39962;9.96111;15;0;false;vh ulm;;11000;false
+Monthly expenses;Stationery, tools;EUR;-15.90;-15.90;Expenses;CASH;Cash;german language book 2;2018-06-25 19:17:48;48.39962;9.96111;15;0;false;thalia;Household;2008;false
+Monthly expenses;Restaurant, fast-food;EUR;-80.00;-80.00;Expenses;CASH;Cash;;2018-06-23 20:12:30;48.30804;11.65911;10;0;false;Rama;Household;1001;false
+Monthly expenses;Clothes & shoes;EUR;-10.00;-10.00;Expenses;CASH;Cash;;2018-06-23 18:41:00;48.10192;11.64504;16;0;false;primark;Household;2000;false
+Monthly expenses;Groceries;EUR;-15.50;-15.50;Expenses;CASH;Cash;haat bazaar;2018-06-23 17:14:00;48.13804;11.56389;16;0;false;haat bazaar;Household;1000;false
+Monthly expenses;Stationery, tools;EUR;-2.95;-2.95;Expenses;CASH;Cash;german word book;2018-06-20 15:25:13;48.39971;9.9612;17;0;false;thalia;Household;2008;false
+Monthly expenses;Stationery, tools;EUR;-6.95;-6.95;Expenses;CASH;Cash;pen;2018-06-20 13:35:41;48.41425;9.92053;29;0;false;Mueller;Household;2008;false
+Monthly expenses;Groceries;EUR;-4.10;-4.10;Expenses;CASH;Cash;strawberry;2018-06-19 20:07:40;48.40964;9.96412;14;0;false;;Household;1000;false
+Monthly expenses;Groceries;EUR;-0.87;-0.87;Expenses;CASH;Cash;;2018-06-19 17:31:06;48.4008;9.97195;10;0;false;aldi;Household;1000;false
+Monthly expenses;Skype;EUR;-14.28;-14.28;Expenses;CASH;Cash;;2018-06-19 02:00:00;;;;0;false;PayPal;;7005;true
+Monthly expenses;Groceries;EUR;-17.96;-17.96;Expenses;CASH;Cash;;2018-06-18 19:30:00;;;;0;false;;Household;1000;false
+Monthly expenses;Home;EUR;-16.97;-16.97;Expenses;CASH;Cash;;2018-06-16 19:44:03;48.40385;9.97744;24;0;false;ikea;Household;2004;false
+Monthly expenses;Gifts, joy;EUR;-13.95;-13.95;Expenses;CASH;Cash;bithi gift;2018-06-16 18:24:58;48.3997;9.9611;15;0;false;nanunana;Household;2007;false
+Monthly expenses;Home;EUR;-8.00;-8.00;Expenses;CASH;Cash;photo frame;2018-06-16 18:24:25;48.39989;9.96073;16;0;false;nanunana;Household;2004;false
+Monthly expenses;Drug-store, chemist;EUR;-10.98;-10.98;Expenses;CASH;Cash;;2018-06-13 12:04:44;48.40861;9.96739;26;0;false;;Household;2011;false
+Monthly expenses;Gifts, joy;EUR;-8.82;-8.82;Expenses;CASH;Cash;arisha;2018-06-12 20:23:43;48.13987;11.51272;14;0;false;;Household;2007;false
+Monthly expenses;Groceries;EUR;-71.50;-71.50;Expenses;CASH;Cash;haat bazaar;2018-06-12 20:23:34;48.13983;11.51277;47;0;false;haat bazaar;Household;1000;false
+Monthly expenses;Groceries;EUR;-43.14;-43.14;Expenses;CASH;Cash;;2018-06-11 19:54:49;48.40134;9.9739;23;0;false;kaufland;Household;1000;false
+Monthly expenses;Clothes & shoes;EUR;-18.00;-18.00;Expenses;CASH;Cash;;2018-06-11 17:01:43;48.40221;9.97463;50;0;false;c&a;Household;2000;false
+Monthly expenses;Energy, utilities;EUR;-23.00;-23.00;Expenses;CASH;Cash;;2018-06-11 02:00:00;;;;0;false;Enbw;;3002;false
+Monthly expenses;Phone, cell phone;EUR;-63.02;-63.02;Expenses;CASH;Cash;mobile (asish);2018-06-10 02:00:46;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;mobile (anwasha);2018-06-10 02:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Groceries;EUR;-8.90;-8.90;Expenses;CASH;Cash;;2018-06-08 21:04:44;48.40936;9.95885;16;0;false;rewe;Household;1000;false
+Monthly expenses;Clothes & shoes;EUR;-28.84;-28.84;Expenses;CASH;Cash;gym dress anwasha;2018-06-07 18:38:45;48.40964;9.96415;14;0;false;decathlon;Household;2000;false
+Monthly expenses;Groceries;EUR;-65.13;-65.13;Expenses;CASH;Cash;;2018-06-05 19:50:58;48.40126;9.97417;15;0;false;kaufland;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-8.00;-8.00;Expenses;CASH;Cash;kebap lunch;2018-06-05 13:00:33;48.4022;9.97454;16;0;false;;Household;1001;false
+Monthly expenses;Active sport, fitness;EUR;-19.96;-19.96;Expenses;CASH;Cash;;2018-06-04 09:00:00;;;;0;false;TrendyOne;Household;6002;false
+Monthly expenses;Rent;EUR;-774.89;-774.89;Expenses;CASH;Cash;;2018-06-01 02:00:00;;;;0;false;Vonovia;;3000;false
+Monthly expenses;Vehicle;EUR;-413.28;-413.28;Expenses;CASH;Cash;;2018-06-01 02:00:00;;;;0;false;BMW;;5004;false
+Monthly expenses;TV, Streaming;EUR;-52.50;-52.50;Expenses;CASH;Cash;;2018-06-01 02:00:00;;;;0;false;ARD;;6008;false
+Monthly expenses;Groceries;EUR;-8.34;-8.34;Expenses;CASH;Cash;;2018-05-29 19:22:55;48.40093;9.96897;699;0;false;aldi;Household;1000;false
+Monthly expenses;Drug-store, chemist;EUR;-4.90;-4.90;Expenses;CASH;Cash;travel pack;2018-05-29 19:03:30;48.40413;9.96487;1299;0;false;;Household;2011;false
+Monthly expenses;Groceries;EUR;-6.66;-6.66;Expenses;CASH;Cash;;2018-05-28 20:52:02;48.40965;9.96416;14;0;false;rewe;Household;1000;false
+Monthly expenses;Drug-store, chemist;EUR;-17.90;-17.90;Expenses;CASH;Cash;sunscreen;2018-05-28 20:48:56;48.40964;9.96417;14;0;false;;Household;2011;false
+Monthly expenses;Clothes & shoes;EUR;-86.13;-86.13;Expenses;CASH;Cash;nice tour preparation;2018-05-28 20:45:07;48.40964;9.96417;14;0;false;;Household;2000;false
+Monthly expenses;Internet;EUR;-20.00;-20.00;Expenses;CASH;Cash;;2018-05-27 02:00:00;;;;0;false;Vodafone;;7002;false
+Monthly expenses;Groceries;EUR;-1.00;-1.00;Expenses;CASH;Cash;turkish bread;2018-05-26 14:48:38;48.40735;9.96762;800;0;false;;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-9.49;-9.49;Expenses;CASH;Cash;;2018-05-25 21:35:19;48.40249;9.97638;600;0;false;kfc;Household;1001;false
+Monthly expenses;Groceries;EUR;-13.92;-13.92;Expenses;CASH;Cash;;2018-05-25 20:09:25;48.40128;9.97255;25;0;false;aldi;Household;1000;false
+Monthly expenses;Home;EUR;-5.95;-5.95;Expenses;CASH;Cash;;2018-05-25 19:46:40;48.39995;9.9606;15;0;false;nanu nana;Household;2004;false
+Monthly expenses;Drug-store, chemist;EUR;-19.24;-19.24;Expenses;CASH;Cash;condom;2018-05-25 19:44:37;48.39998;9.96043;15;0;false;;Household;2011;false
+Monthly expenses;Home;EUR;-3.50;-3.50;Expenses;CASH;Cash;glass bowl;2018-05-22 19:02:39;48.39979;9.96105;15;0;false;nanunana;Household;2004;false
+Monthly expenses;Home;EUR;-3.99;-3.99;Expenses;CASH;Cash;stopp;2018-05-22 18:23:07;48.40436;9.97603;888;0;false;ikea;Household;2004;false
+Monthly expenses;Groceries;EUR;-12.53;-12.53;Expenses;CASH;Cash;;2018-05-22 18:05:48;48.40094;9.97199;12;0;false;aldi;Household;1000;false
+Monthly expenses;Groceries;EUR;-5.51;-5.51;Expenses;CASH;Cash;;2018-05-22 12:13:18;48.40951;9.95928;15;0;false;rewe;Household;1000;false
+Monthly expenses;Others;EUR;-195.00;-195.00;Expenses;CASH;Cash;language course a1.1 Anwasha;2018-05-22 09:20:52;48.41921;9.93471;16;0;false;vh ulm;;11000;false
+Monthly expenses;Skype;EUR;-14.28;-14.28;Expenses;CASH;Cash;;2018-05-19 02:00:00;;;;0;false;PayPal;;7005;true
+Monthly expenses;Restaurant, fast-food;EUR;-5.00;-5.00;Expenses;CASH;Cash;Donner kebap;2018-05-18 18:44:51;48.40966;9.96416;14;0;false;;Household;1001;false
+Monthly expenses;Drug-store, chemist;EUR;-1.85;-1.85;Expenses;CASH;Cash;;2018-05-16 21:32:45;48.40967;9.96416;15;0;false;Mueller;Household;2011;false
+Monthly expenses;Clothes & shoes;EUR;-11.99;-11.99;Expenses;CASH;Cash;dress;2018-05-16 21:31:36;48.40967;9.96417;14;0;false;;Household;2000;false
+Monthly expenses;Groceries;EUR;-3.70;-3.70;Expenses;CASH;Cash;;2018-05-16 19:05:19;48.4096;9.95925;16;0;false;rewe;Household;1000;false
+Monthly expenses;Groceries;EUR;-3.98;-3.98;Expenses;CASH;Cash;bread;2018-05-14 20:16:11;48.39606;9.98123;29;0;false;;Household;1000;false
+Monthly expenses;Groceries;EUR;-13.42;-13.42;Expenses;CASH;Cash;;2018-05-14 19:40:07;48.40102;9.97138;36;0;false;aldi;Household;1000;false
+Monthly expenses;Home;EUR;-11.76;-11.76;Expenses;CASH;Cash;organizers;2018-05-14 19:00:36;48.39979;9.96033;15;0;false;Mueller;Household;2004;false
+Monthly expenses;Gifts, joy;EUR;-12.00;-12.00;Expenses;CASH;Cash;cake;2018-05-14 18:30:44;48.39957;9.96101;16;0;false;;Household;2007;false
+Monthly expenses;Books, audio, subscriptions;EUR;-15.90;-15.90;Expenses;CASH;Cash;german 1.1;2018-05-14 18:29:52;48.39982;9.96105;15;0;false;;Household;6007;false
+Monthly expenses;Energy, utilities;EUR;-23.00;-23.00;Expenses;CASH;Cash;;2018-05-11 02:00:00;;;;0;false;Enbw;;3002;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;;2018-05-10 02:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;;2018-05-10 02:00:00;;;;0;false;;;7001;false
+Monthly expenses;Restaurant, fast-food;EUR;-9.37;-9.37;Expenses;CASH;Cash;;2018-05-09 21:33:46;47.548;9.72695;23;0;false;McDonald's;Household;1001;false
+Monthly expenses;Others;EUR;-20.00;-20.00;Expenses;CASH;Cash;orcid;2018-05-09 19:01:28;47.68578;9.78629;1338;0;false;;;11000;false
+Monthly expenses;Groceries;EUR;-4.67;-4.67;Expenses;CASH;Cash;;2018-05-07 20:26:45;48.39529;9.97087;15;0;false;netto;Household;1000;false
+Monthly expenses;Wellness, beauty;EUR;-3.00;-3.00;Expenses;CASH;Cash;drier;2018-05-07 20:00:29;48.39498;9.96876;16;0;false;;Household;6001;false
+Monthly expenses;Wellness, beauty;EUR;-10.50;-10.50;Expenses;CASH;Cash;wash clothes;2018-05-07 19:47:59;48.39509;9.97031;15;0;false;;Household;6001;false
+Monthly expenses;Groceries;EUR;-12.80;-12.80;Expenses;CASH;Cash;;2018-05-07 19:31:17;48.40139;9.97257;17;0;false;aldi;Household;1000;false
+Monthly expenses;Active sport, fitness;EUR;-19.96;-19.96;Expenses;CASH;Cash;;2018-05-07 09:00:00;;;;0;false;TrendyOne;Household;6002;false
+Monthly expenses;Parking;EUR;-1.50;-1.50;Expenses;CASH;Cash;;2018-05-07 08:00:17;48.40966;9.96416;14;0;false;;Household;5001;false
+Monthly expenses;Restaurant, fast-food;EUR;-11.50;-11.50;Expenses;CASH;Cash;;2018-05-06 20:57:53;48.4042;9.96409;1500;0;false;kfc;Household;1001;false
+Monthly expenses;Gifts, joy;EUR;-7.77;-7.77;Expenses;CASH;Cash;;2018-05-05 22:25:18;48.40887;9.96405;199;0;false;;Household;2007;false
+Monthly expenses;Drug-store, chemist;EUR;-20.98;-20.98;Expenses;CASH;Cash;condom + pregnancy testing kit;2018-05-04 17:08:36;48.40879;9.96451;16;0;false;;Household;2011;false
+Monthly expenses;Restaurant, fast-food;EUR;-7.64;-7.64;Expenses;CASH;Cash;;2018-05-03 16:00:30;48.40378;9.97642;30;0;false;ikea;Household;1001;false
+Monthly expenses;Groceries;EUR;-35.33;-35.33;Expenses;CASH;Cash;;2018-05-03 15:35:17;48.40135;9.97273;23;0;false;aldi;Household;1000;false
+Monthly expenses;Others;EUR;-100.00;-100.00;Expenses;CASH;Cash;visa extension;2018-05-03 14:51:27;48.40129;9.97252;173;0;false;ulm;;11000;false
+Monthly expenses;Parking;EUR;-0.50;-0.50;Expenses;CASH;Cash;;2018-05-03 13:35:42;48.40109;9.99603;899;0;false;;Household;5001;false
+Monthly expenses;Advisory;EUR;-112.00;-112.00;Expenses;CASH;Cash;tax return advice 2017;2018-05-01 18:46:57;48.40967;9.96417;14;0;false;lh-ulm;;8004;false
+Monthly expenses;Advisory;EUR;-190.00;-190.00;Expenses;CASH;Cash;tax return advice 2016;2018-05-01 18:46:51;48.40966;9.96416;14;0;false;lh-ulm;;8004;false
+Monthly expenses;Vehicle;EUR;-413.28;-413.28;Expenses;CASH;Cash;;2018-05-01 02:00:00;;;;0;false;BMW;;5004;false
+Monthly expenses;Rent;EUR;-774.89;-774.89;Expenses;CASH;Cash;;2018-05-01 02:00:00;;;;0;false;Vonovia;;3000;false
+Monthly expenses;TV, Streaming;EUR;-17.00;-17.00;Expenses;CASH;Cash;;2018-05-01 02:00:00;;;;0;false;ARD;;6008;false
+Monthly expenses;Holiday, trips, hotels;EUR;-608.37;-608.37;Expenses;CASH;Cash;Trip to Germany for Anwasha;2018-04-30 21:14:17;;;;0;false;Turkish Airlines;;6009;false
+Monthly expenses;Parking;EUR;-3.50;-3.50;Expenses;CASH;Cash;;2018-04-30 17:25:21;48.13987;11.53678;18;0;false;;Household;5001;false
+Monthly expenses;Groceries;EUR;-47.44;-47.44;Expenses;CASH;Cash;;2018-04-30 17:24:56;48.13987;11.53669;15;0;false;haat bazaar;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-11.50;-11.50;Expenses;CASH;Cash;doner;2018-04-30 17:24:01;48.13994;11.537;15;0;false;;Household;1001;false
+Monthly expenses;Parking;EUR;-4.00;-4.00;Expenses;CASH;Cash;bmw welt;2018-04-30 14:05:41;48.17708;11.55614;800;0;false;;Household;5001;false
+Monthly expenses;Holiday, trips, hotels;EUR;-718.15;-718.15;Expenses;CASH;Cash;Bangladesh trip, April;2018-04-30 09:22:42;48.40965;9.96414;14;0;false;Turkish Airlines;;6009;false
+Monthly expenses;Public transport;EUR;-12.80;-12.80;Expenses;CASH;Cash;mini Octoberfest day ticket;2018-04-29 06:22:44;48.40966;9.96417;14;0;false;DB;;4000;false
+Monthly expenses;Gifts, joy;EUR;-19.80;-19.80;Expenses;CASH;Cash;arisha'r birthday;2018-04-29 01:38:23;48.40966;9.96416;14;0;false;kidsrus;Household;2007;false
+Monthly expenses;Home;EUR;-27.83;-27.83;Expenses;CASH;Cash;pillow and kitchen;2018-04-27 19:43:57;48.40412;9.97574;699;0;false;ikea;Household;2004;false
+Monthly expenses;Parking;EUR;-10.00;-10.00;Expenses;CASH;Cash;parking fine;2018-04-27 18:09:47;48.40062;9.97065;57;0;false;;Household;5001;false
+Monthly expenses;Groceries;EUR;-13.18;-13.18;Expenses;CASH;Cash;;2018-04-27 18:09:24;48.40062;9.97065;68;0;false;aldi;Household;1000;false
+Monthly expenses;Internet;EUR;-20.00;-20.00;Expenses;CASH;Cash;;2018-04-27 02:00:00;;;;0;false;Vodafone;;7002;false
+Monthly expenses;Restaurant, fast-food;EUR;-14.00;-14.00;Expenses;CASH;Cash;turkish lunch;2018-04-26 17:25:46;48.39852;9.99602;14;0;false;simit;Household;1001;false
+Monthly expenses;Parking;EUR;-1.50;-1.50;Expenses;CASH;Cash;;2018-04-26 14:42:23;48.39733;9.97823;44;0;false;;Household;5001;false
+Monthly expenses;Restaurant, fast-food;EUR;-13.37;-13.37;Expenses;CASH;Cash;;2018-04-24 20:12:55;48.40066;9.96517;16;0;false;McDonald's;Household;1001;false
+Monthly expenses;Electronics, accessories;EUR;-74.98;-74.98;Expenses;CASH;Cash;;2018-04-24 19:12:07;48.40157;9.97269;60;0;false;mediamarkt;Household;2006;false
+Monthly expenses;Clothes & shoes;EUR;-29.00;-29.00;Expenses;CASH;Cash;jacket;2018-04-24 18:29:34;48.39962;9.96156;39;0;false;c&a;Household;2000;false
+Monthly expenses;Clothes & shoes;EUR;-9.99;-9.99;Expenses;CASH;Cash;tops;2018-04-24 18:08:53;48.39975;9.96113;24;0;false;misty lady;Household;2000;false
+Monthly expenses;Public transport;EUR;-2.20;-2.20;Expenses;CASH;Cash;bus for lunch;2018-04-24 13:35:50;48.41936;9.93466;47;0;false;;;4000;false
+Monthly expenses;Groceries;EUR;-34.97;-34.97;Expenses;CASH;Cash;;2018-04-23 21:31:24;48.40961;9.95913;245;0;false;rewe;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-9.50;-9.50;Expenses;CASH;Cash;;2018-04-23 20:21:05;48.40338;9.97347;600;0;false;KFC;Household;1001;false
+Monthly expenses;Home;EUR;-44.72;-44.72;Expenses;CASH;Cash;kitchen stuff;2018-04-23 20:06:35;48.40364;9.97807;87;0;false;ikea;Household;2004;false
+Monthly expenses;Health care, doctor;EUR;-5.00;-5.00;Expenses;CASH;Cash;;2018-04-23 17:43:49;48.40838;9.9672;52;0;false;;Household;6000;false
+Monthly expenses;Parking;EUR;-2.00;-2.00;Expenses;CASH;Cash;ulm;2018-04-23 08:30:50;48.40967;9.96417;14;0;false;;Household;5001;false
+Monthly expenses;Holiday, trips, hotels;EUR;-608.37;-608.37;Expenses;CASH;Cash;Anwasha fly to Germany;2018-04-22 12:30:00;;;;0;false;Turkish Airline;Household;6009;false
+Monthly expenses;Others;EUR;-50.00;-50.00;Expenses;CASH;Cash;Anwasha;2018-04-22 11:00:37;48.40967;9.96417;14;0;false;;;11000;false
+Monthly expenses;Restaurant, fast-food;EUR;-10.50;-10.50;Expenses;CASH;Cash;breakfast;2018-04-22 10:00:26;48.40967;9.96417;14;0;false;Bayer Neu-Ulm;Household;1001;false
+Monthly expenses;Public transport;EUR;-24.30;-24.30;Expenses;CASH;Cash;airport to munich;2018-04-21 20:35:38;48.13934;11.5129;17;0;false;db;;4000;false
+Monthly expenses;Insurances;EUR;-48.00;-48.00;Expenses;CASH;Cash;travel insurance for Anwasha;2018-04-21 00:00:45;;;;0;false;adac;;8001;false
+Monthly expenses;Skype;EUR;-14.28;-14.28;Expenses;CASH;Cash;;2018-04-19 02:00:00;;;;0;false;PayPal;;7005;true
+Monthly expenses;Energy, utilities;EUR;-23.00;-23.00;Expenses;CASH;Cash;;2018-04-11 02:00:00;;;;0;false;Enbw;;3002;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;;2018-04-10 02:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Active sport, fitness;EUR;-58.82;-58.82;Expenses;CASH;Cash;;2018-04-09 09:15:00;;;;0;false;TrendyOne;Household;6002;false
+Monthly expenses;Gifts, joy;EUR;-32.15;-32.15;Expenses;CASH;Cash;whiskey;2018-04-06 14:11:39;48.40967;9.96417;14;0;false;MUC;Household;2007;false
+Monthly expenses;Holiday, trips, hotels;EUR;-718.15;-718.15;Expenses;CASH;Cash;Visit Bangladesh;2018-04-06 12:30:00;;;;0;false;Turkish Airline;Household;6009;false
+Monthly expenses;Gifts, joy;EUR;-55.60;-55.60;Expenses;CASH;Cash;chocolate;2018-04-04 18:25:35;48.39979;9.96081;28;0;false;Mueller;Household;2007;false
+Monthly expenses;Restaurant, fast-food;EUR;-5.00;-5.00;Expenses;CASH;Cash;lunch;2018-04-04 13:00:57;48.4192;9.93473;15;0;false;;Household;1001;false
+Monthly expenses;Fines;EUR;-148.50;-148.50;Expenses;CASH;Cash;Over speeding;2018-04-03 13:20:26;48.40964;9.96418;14;0;false;Karlsruhe;;8003;false
+Monthly expenses;Rent;EUR;-774.89;-774.89;Expenses;CASH;Cash;;2018-04-01 02:00:00;;;;0;false;Vonovia;;3000;false
+Monthly expenses;Insurances;EUR;-399.83;-399.83;Expenses;CASH;Cash;;2018-04-01 02:00:00;;;;0;false;HanseMerkur;;8001;false
+Monthly expenses;Vehicle;EUR;-413.28;-413.28;Expenses;CASH;Cash;;2018-04-01 02:00:00;;;;0;false;BMW;;5004;false
+Monthly expenses;TV, Streaming;EUR;-17.00;-17.00;Expenses;CASH;Cash;;2018-04-01 02:00:00;;;;0;false;ARD;;6008;false
+Monthly expenses;Electronics, accessories;EUR;-19.99;-19.99;Expenses;CASH;Cash;USB Type C cable;2018-03-30 20:22:50;48.13841;11.51182;15;0;false;shell;Household;2006;false
+Monthly expenses;Parking;EUR;-9.00;-9.00;Expenses;CASH;Cash;Austria road toll;2018-03-30 20:21:19;48.13841;11.51182;15;0;false;;Household;5001;false
+Monthly expenses;Restaurant, fast-food;EUR;-10.00;-10.00;Expenses;CASH;Cash;Innsbruck;2018-03-30 16:00:56;48.40965;9.96415;14;0;false;restaurant seegrube;Household;1001;false
+Monthly expenses;Internet;EUR;-20.00;-20.00;Expenses;CASH;Cash;;2018-03-27 02:00:00;;;;0;false;Vodafone;;7002;false
+Monthly expenses;Restaurant, fast-food;EUR;-5.00;-5.00;Expenses;CASH;Cash;kabab;2018-03-26 19:33:53;48.40897;9.96469;15;0;false;;Household;1001;false
+Monthly expenses;Groceries;EUR;-18.05;-18.05;Expenses;CASH;Cash;;2018-03-24 18:55:30;48.39736;9.981;1799;0;false;aldi;Household;1000;false
+Monthly expenses;Groceries;EUR;-13.88;-13.88;Expenses;CASH;Cash;;2018-03-21 17:28:48;48.40975;9.95957;28;0;false;rewe;Household;1000;false
+Monthly expenses;Skype;EUR;-14.28;-14.28;Expenses;CASH;Cash;;2018-03-19 01:00:00;;;;0;false;PayPal;;7005;true
+Monthly expenses;Groceries;EUR;-4.64;-4.64;Expenses;CASH;Cash;;2018-03-17 15:51:42;48.39996;9.96056;15;0;false;;Household;1000;false
+Monthly expenses;Groceries;EUR;-13.87;-13.87;Expenses;CASH;Cash;;2018-03-17 15:24:15;48.40372;9.97318;600;0;false;ALDI;Household;1000;false
+Monthly expenses;Energy, utilities;EUR;-23.00;-23.00;Expenses;CASH;Cash;;2018-03-11 01:00:00;;;;0;false;Enbw;;3002;false
+Monthly expenses;Home;EUR;-16.78;-16.78;Expenses;CASH;Cash;plumbing tool;2018-03-10 17:25:55;48.14005;11.52294;31;0;false;bauhaus;Household;2004;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;;2018-03-10 01:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Groceries;EUR;-23.51;-23.51;Expenses;CASH;Cash;;2018-03-09 15:40:18;48.40501;9.97283;699;0;false;ALDI;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-5.00;-5.00;Expenses;CASH;Cash;;2018-03-08 22:07:45;;;;0;false;Chinese;Household;1001;false
+Monthly expenses;Groceries;EUR;-9.08;-9.08;Expenses;CASH;Cash;rewe;2018-03-05 20:04:39;48.4096;9.96414;14;0;false;;Household;1000;false
+Monthly expenses;Groceries;EUR;-14.50;-14.50;Expenses;CASH;Cash;haat bazaar;2018-03-03 14:00:20;48.13839;11.56385;28;0;false;;Household;1000;false
+Monthly expenses;Vehicle;EUR;-413.28;-413.28;Expenses;CASH;Cash;;2018-03-01 01:00:00;;;;0;false;BMW;;5004;false
+Monthly expenses;Insurances;EUR;-399.83;-399.83;Expenses;CASH;Cash;;2018-03-01 01:00:00;;;;0;false;HanseMerkur;;8001;false
+Monthly expenses;Rent;EUR;-774.89;-774.89;Expenses;CASH;Cash;;2018-03-01 01:00:00;;;;0;false;Vonovia;;3000;false
+Monthly expenses;TV, Streaming;EUR;-17.00;-17.00;Expenses;CASH;Cash;;2018-03-01 01:00:00;;;;0;false;ARD;;6008;false
+Monthly expenses;Health care, doctor;EUR;-18.37;-18.37;Expenses;CASH;Cash;;2018-02-28 10:24:23;48.40249;9.97638;600;0;false;;Household;6000;false
+Monthly expenses;Internet;EUR;-20.00;-20.00;Expenses;CASH;Cash;;2018-02-27 01:00:00;;;;0;false;Vodafone;;7002;false
+Monthly expenses;Health care, doctor;EUR;-38.91;-38.91;Expenses;CASH;Cash;apotheke;2018-02-26 23:56:14;48.40958;9.96417;18;0;false;;Household;6000;false
+Monthly expenses;Groceries;EUR;-15.20;-15.20;Expenses;CASH;Cash;Aldi;2018-02-23 17:47:44;48.40958;9.96416;18;0;false;;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-6.99;-6.99;Expenses;CASH;Cash;kfc;2018-02-22 18:46:16;48.40962;9.96412;18;0;false;;Household;1001;false
+Monthly expenses;Stationery, tools;EUR;-38.85;-38.85;Expenses;CASH;Cash;backpack;2018-02-22 13:44:44;48.41925;9.93462;19;0;false;Amazon;Household;2008;false
+Monthly expenses;Books, audio, subscriptions;EUR;-34.00;-34.00;Expenses;CASH;Cash;amazon prime;2018-02-19 18:52:57;48.4096;9.96414;18;0;false;amazon;Household;6007;false
+Monthly expenses;Stationery, tools;EUR;-7.65;-7.65;Expenses;CASH;Cash;feather duster (staubwedel);2018-02-19 18:47:14;48.4096;9.96416;18;0;false;Amazon;Household;2008;false
+Monthly expenses;Clothes & shoes;EUR;-14.99;-14.99;Expenses;CASH;Cash;;2018-02-19 18:07:44;48.39969;9.9626;19;0;false;Decathlon;Household;2000;false
+Monthly expenses;Groceries;EUR;-58.90;-58.90;Expenses;CASH;Cash;haat bazaar;2018-02-19 06:07:38;48.40957;9.96409;19;0;false;;Household;1000;false
+Monthly expenses;Skype;EUR;-14.28;-14.28;Expenses;CASH;Cash;;2018-02-19 01:00:00;;;;0;false;PayPal;;7005;true
+Monthly expenses;Groceries;EUR;-10.40;-10.40;Expenses;CASH;Cash;tea;2018-02-17 13:04:41;48.13809;11.56324;21;0;false;indian shop;Household;1000;false
+Monthly expenses;Stationery, tools;EUR;-5.54;-5.54;Expenses;CASH;Cash;desk calendar;2018-02-15 19:12:22;48.40957;9.96409;19;0;false;Amazon;Household;2008;false
+Monthly expenses;Stationery, tools;EUR;-7.08;-7.08;Expenses;CASH;Cash;hook;2018-02-15 19:10:37;48.40957;9.96409;19;0;false;Amazon;Household;2008;false
+Monthly expenses;Books, audio, subscriptions;EUR;-44.98;-44.98;Expenses;CASH;Cash;API Design C++;2018-02-15 19:09:49;48.40957;9.96409;19;0;false;Amazon;Household;6007;false
+Monthly expenses;Clothes & shoes;EUR;-41.05;-41.05;Expenses;CASH;Cash;;2018-02-15 19:08:34;48.40957;9.96409;19;0;false;Decathlon;Household;2000;false
+Monthly expenses;Gifts, joy;EUR;-3.05;-3.05;Expenses;CASH;Cash;pigbank;2018-02-15 19:07:05;48.40957;9.96409;19;0;false;nanananu;Household;2007;false
+Monthly expenses;Groceries;EUR;-17.88;-17.88;Expenses;CASH;Cash;;2018-02-14 16:38:29;;;;0;false;REWE;Household;1000;false
+Monthly expenses;Energy, utilities;EUR;-23.00;-23.00;Expenses;CASH;Cash;;2018-02-11 01:00:00;;;;0;false;Enbw;;3002;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;;2018-02-10 01:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Vehicle;EUR;-413.28;-413.28;Expenses;CASH;Cash;;2018-02-01 01:00:00;;;;0;false;BMW;;5004;false
+Monthly expenses;Insurances;EUR;-399.83;-399.83;Expenses;CASH;Cash;;2018-02-01 01:00:00;;;;0;false;HanseMerkur;;8001;false
+Monthly expenses;TV, Streaming;EUR;-17.00;-17.00;Expenses;CASH;Cash;;2018-02-01 01:00:00;;;;0;false;ARD;;6008;false
+Monthly expenses;Rent;EUR;-774.89;-774.89;Expenses;CASH;Cash;;2018-02-01 01:00:00;;;;0;false;Vonovia;;3000;false
+Monthly expenses;Internet;EUR;-20.00;-20.00;Expenses;CASH;Cash;;2018-01-27 01:00:00;;;;0;false;Vodafone;;7002;false
+Monthly expenses;Skype;EUR;-14.28;-14.28;Expenses;CASH;Cash;;2018-01-19 01:00:00;;;;0;false;PayPal;;7005;true
+Monthly expenses;Restaurant, fast-food;EUR;-13.75;-13.75;Expenses;CASH;Cash;Airport Munich;2018-01-12 19:48:02;48.35297;11.78423;21;0;false;;Household;1001;false
+Monthly expenses;Restaurant, fast-food;EUR;-4.90;-4.90;Expenses;CASH;Cash;lunch;2018-01-12 12:50:21;48.41923;9.9347;19;0;false;;Household;1001;false
+Monthly expenses;Public transport;EUR;-4.40;-4.40;Expenses;CASH;Cash;;2018-01-12 12:49:55;48.41923;9.9347;19;0;false;;;4000;false
+Monthly expenses;Restaurant, fast-food;EUR;-20.00;-20.00;Expenses;CASH;Cash;dinner;2018-01-12 12:48:50;48.41923;9.9347;19;0;false;;Household;1001;false
+Monthly expenses;Gifts, joy;EUR;-9.95;-9.95;Expenses;CASH;Cash;chocolate;2018-01-12 12:48:01;48.41923;9.9347;19;0;false;Mueller;Household;2007;false
+Monthly expenses;Gifts, joy;EUR;-31.60;-31.60;Expenses;CASH;Cash;chocolate;2018-01-12 12:47:49;48.41923;9.9347;19;0;false;Mueller;Household;2007;false
+Monthly expenses;Holiday, trips, hotels;EUR;-889.53;-889.53;Expenses;CASH;Cash;Visit Bangladesh;2018-01-12 12:15:00;;;;0;false;Fly Emirates;Household;6009;false
+Monthly expenses;Energy, utilities;EUR;-23.00;-23.00;Expenses;CASH;Cash;;2018-01-11 01:00:00;;;;0;false;Enbw;;3002;false
+Monthly expenses;Clothes & shoes;EUR;-34.00;-34.00;Expenses;CASH;Cash;blautal center;2018-01-10 18:24:13;;;;0;false;C&A;Household;2000;false
+Monthly expenses;Gifts, joy;EUR;-46.68;-46.68;Expenses;CASH;Cash;chocolate;2018-01-10 12:49:08;48.39953;9.96082;31;0;false;Mueller;Household;2007;false
+Monthly expenses;Restaurant, fast-food;EUR;-4.90;-4.90;Expenses;CASH;Cash;;2018-01-10 12:47:42;48.39953;9.96082;31;0;false;;Household;1001;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;;2018-01-10 01:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Groceries;EUR;-0.79;-0.79;Expenses;CASH;Cash;;2018-01-09 18:22:56;48.4096;9.95914;36;0;false;;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-4.90;-4.90;Expenses;CASH;Cash;Lunch;2018-01-09 12:29:04;48.39945;9.96105;19;0;false;asianwok;Household;1001;false
+Monthly expenses;Groceries;EUR;-1.99;-1.99;Expenses;CASH;Cash;;2018-01-08 17:25:23;48.4096;9.959;63;0;false;;Household;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-2.95;-2.95;Expenses;CASH;Cash;;2018-01-05 16:11:08;48.40382;9.97643;343;0;false;ikea;Household;1001;false
+Monthly expenses;Clothes & shoes;EUR;-22.00;-22.00;Expenses;CASH;Cash;;2018-01-05 15:47:40;48.40502;9.9542;1759;0;false;C&A;Household;2000;false
+Monthly expenses;Groceries;EUR;-10.44;-10.44;Expenses;CASH;Cash;;2018-01-03 16:22:59;;;;0;false;REWE;Household;1000;false
+Monthly expenses;Home;EUR;-6.49;-6.49;Expenses;CASH;Cash;;2018-01-03 15:13:50;48.41929;9.93454;20;0;false;bauhaus;Household;2004;false
+Monthly expenses;Hobbies;EUR;-6.98;-6.98;Expenses;CASH;Cash;plants + pot;2018-01-02 19:50:40;48.40961;9.96412;19;0;false;ikea;Household;6005;false
+Monthly expenses;Restaurant, fast-food;EUR;-3.35;-3.35;Expenses;CASH;Cash;;2018-01-02 18:16:00;48.40374;9.97671;42;0;false;Ikea;Household;1001;false
+Monthly expenses;Restaurant, fast-food;EUR;-3.90;-3.90;Expenses;CASH;Cash;;2018-01-02 12:25:32;48.4044;9.96537;1399;0;false;;Household;1001;false
+Monthly expenses;Insurances;EUR;-399.83;-399.83;Expenses;CASH;Cash;;2018-01-01 01:00:04;;;;0;false;HanseMerkur;;8001;false
+Monthly expenses;Rent;EUR;-774.89;-774.89;Expenses;CASH;Cash;;2018-01-01 01:00:00;;;;0;false;Vonovia;;3000;false
+Monthly expenses;Vehicle;EUR;-413.28;-413.28;Expenses;CASH;Cash;;2018-01-01 01:00:00;;;;0;false;BMW;;5004;false
+Monthly expenses;TV, Streaming;EUR;-17.00;-17.00;Expenses;CASH;Cash;;2018-01-01 01:00:00;;;;0;false;ARD;;6008;false
+Monthly expenses;Income;EUR;1192.17;1192.17;Income;CASH;Cash;Cover;2018-01-01 00:00:23;48.40959;9.96413;19;0;false;;;10011;false
+Monthly expenses;Restaurant, fast-food;EUR;-5.20;-5.20;Expenses;CASH;Cash;;2017-12-30 21:36:32;48.40732;9.95351;1299;0;false;;;1001;false
+Monthly expenses;Life events;EUR;-97.00;-97.00;Expenses;CASH;Cash;Insurance for Anwasha;2017-12-29 19:01:53;48.40957;9.96413;19;0;false;City of Ulm;;6004;false
+Monthly expenses;Home;EUR;-15.49;-15.49;Expenses;CASH;Cash;;2017-12-28 15:09:02;48.4112;9.93796;1500;0;false;;;2004;false
+Monthly expenses;Groceries;EUR;-25.51;-25.51;Expenses;CASH;Cash;;2017-12-28 15:08:59;48.4112;9.93796;1500;0;false;;;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-8.00;-8.00;Expenses;MOBILE_PAYMENT;Mobile payment;;2017-12-28 10:04:13;;;;0;false;Blautal Center;;1001;false
+Monthly expenses;Vehicle;EUR;-13.50;-13.50;Expenses;CASH;Cash;;2017-12-27 14:34:45;48.40925;9.96145;17;0;false;;;5004;false
+Monthly expenses;Groceries;EUR;-13.73;-13.73;Expenses;CASH;Cash;;2017-12-27 13:14:31;48.40069;9.97102;52;0;false;ALDI;;1000;false
+Monthly expenses;Groceries;EUR;-16.68;-16.68;Expenses;CASH;Cash;mango lassi;2017-12-27 12:47:07;48.40041;9.96991;87;0;false;;;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-8.00;-8.00;Expenses;CASH;Cash;Breakfast with Russell;2017-12-27 10:05:31;48.40957;9.96413;19;0;false;;;1001;false
+Monthly expenses;Internet;EUR;-20.00;-20.00;Expenses;CASH;Cash;;2017-12-27 01:00:00;;;;0;false;Vodafone;;7002;false
+Monthly expenses;Holiday, trips, hotels;EUR;-312.00;-312.00;Expenses;CASH;Cash;Vienna;2017-12-26 10:48:32;48.40958;9.96412;19;0;false;;;6009;false
+Monthly expenses;Skype;EUR;-14.28;-14.28;Expenses;CASH;Cash;;2017-12-19 01:00:00;;;;0;false;PayPal;;7005;true
+Monthly expenses;Groceries;EUR;-25.00;-25.00;Expenses;CASH;Cash;bangla dokan Frankfurt;2017-12-15 15:09:49;48.41272;9.94575;500;0;false;;;1000;false
+Monthly expenses;Groceries;EUR;-6.38;-6.38;Expenses;CASH;Cash;;2017-12-14 18:14:15;48.40766;9.95323;1299;0;false;;;1000;false
+Monthly expenses;Home;EUR;-58.55;-58.55;Expenses;CASH;Cash;;2017-12-12 07:45:30;48.40958;9.96413;19;0;false;;;2004;false
+Monthly expenses;Groceries;EUR;-6.01;-6.01;Expenses;CASH;Cash;rewe;2017-12-11 12:51:57;48.40969;9.95878;24;0;false;;;1000;false
+Monthly expenses;Energy, utilities;EUR;-23.00;-23.00;Expenses;CASH;Cash;;2017-12-11 01:00:00;;;;0;false;Enbw;;3002;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;;2017-12-10 01:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Groceries;EUR;-71.54;-71.54;Expenses;CASH;Cash;bangla dokan Frankfurt;2017-12-09 12:02:14;48.40957;9.96414;19;0;false;;;1000;false
+Monthly expenses;Life & Entertainment;EUR;-72.90;-72.90;Expenses;CASH;Cash;Invitation for Anwasha;2017-12-08 09:54:43;48.40023;9.98486;252;0;false;DHL;;6013;false
+Monthly expenses;Life & Entertainment;EUR;-29.00;-29.00;Expenses;CASH;Cash;Invitation for Anwasha;2017-12-08 09:05:34;48.39932;9.99467;28;0;false;city of Ulm;;6013;false
+Monthly expenses;Groceries;EUR;-25.55;-25.55;Expenses;CASH;Cash;rewe;2017-12-01 20:13:15;48.40959;9.96415;19;0;false;;;1000;false
+Monthly expenses;TV, Streaming;EUR;-17.00;-17.00;Expenses;CASH;Cash;;2017-12-01 01:00:00;;;;0;false;ARD;;6008;false
+Monthly expenses;Rent;EUR;-762.64;-762.64;Expenses;CASH;Cash;;2017-12-01 01:00:00;;;;0;false;Vonovia;;3000;false
+Monthly expenses;Vehicle;EUR;-413.28;-413.28;Expenses;CASH;Cash;;2017-12-01 01:00:00;;;;0;false;BMW;;5004;false
+Monthly expenses;Insurances;EUR;-397.72;-397.72;Expenses;CASH;Cash;;2017-12-01 01:00:00;;;;0;false;HanseMerkur;;8001;false
+Monthly expenses;Internet;EUR;-20.00;-20.00;Expenses;CASH;Cash;;2017-11-27 01:00:00;;;;0;false;Vodafone;;7002;false
+Monthly expenses;Gifts, joy;EUR;-6.00;-6.00;Expenses;CASH;Cash;;2017-11-25 11:25:12;48.30552;11.63084;104;0;false;moemax;;2007;false
+Monthly expenses;Home;EUR;-24.00;-24.00;Expenses;CASH;Cash;;2017-11-25 11:22:49;48.30552;11.63084;104;0;false;moemax;;2004;false
+Monthly expenses;Gifts, joy;EUR;-28.00;-28.00;Expenses;CASH;Cash;;2017-11-24 17:04:31;;;;0;false;toysrus;;2007;false
+Monthly expenses;Hobbies;EUR;-26.43;-26.43;Expenses;CASH;Cash;plants;2017-11-23 18:34:29;48.4038;9.97707;19;0;false;;;6005;false
+Monthly expenses;Groceries;EUR;-10.72;-10.72;Expenses;CASH;Cash;mango lassi;2017-11-20 18:49:29;48.40144;9.97313;116;0;false;;;1000;false
+Monthly expenses;Hobbies;EUR;-4.00;-4.00;Expenses;CASH;Cash;;2017-11-20 18:23:50;;;;0;false;BAUHAUS;;6005;false
+Monthly expenses;Skype extra;EUR;-10.00;-10.00;Expenses;CASH;Cash;PayPal;2017-11-20 10:01:09;48.41929;9.93457;19;0;false;;;7005;true
+Monthly expenses;Restaurant, fast-food;EUR;-10.00;-10.00;Expenses;CASH;Cash;Energon;2017-11-20 09:50:19;48.41929;9.93459;20;0;false;;;1001;false
+Monthly expenses;Skype;EUR;-14.28;-14.28;Expenses;CASH;Cash;;2017-11-19 01:00:00;;;;0;false;PayPal;;7005;true
+Monthly expenses;Groceries;EUR;-11.95;-11.95;Expenses;CASH;Cash;;2017-11-18 21:30:35;48.40898;9.97424;1200;0;false;;;1000;false
+Monthly expenses;Health and beauty;EUR;-34.75;-34.75;Expenses;CASH;Cash;Trimmer;2017-11-18 21:28:11;48.40898;9.97424;1200;0;false;Amazon;;2002;false
+Monthly expenses;Groceries;EUR;-3.00;-3.00;Expenses;CASH;Cash;;2017-11-18 21:26:20;48.40898;9.97424;1200;0;false;;;1000;false
+Monthly expenses;Drug-store, chemist;EUR;-11.75;-11.75;Expenses;CASH;Cash;;2017-11-18 21:24:30;48.40898;9.97424;1200;0;false;;;2011;false
+Monthly expenses;Hobbies;EUR;-2.50;-2.50;Expenses;CASH;Cash;;2017-11-18 14:57:00;48.40518;9.96363;1600;0;false;;;6005;false
+Monthly expenses;Vehicle;EUR;-3.00;-3.00;Expenses;CASH;Cash;;2017-11-18 14:56:47;48.40518;9.96363;1600;0;false;;;5004;false
+Monthly expenses;Groceries;EUR;-11.95;-11.95;Expenses;CASH;Cash;Aldi;2017-11-17 16:21:59;48.41928;9.93455;653;0;false;;;1000;false
+Monthly expenses;Home;EUR;-13.99;-13.99;Expenses;CASH;Cash;;2017-11-11 13:09:49;48.409;9.96406;22;0;false;ikea;;2004;false
+Monthly expenses;Hobbies;EUR;-8.94;-8.94;Expenses;CASH;Cash;plants;2017-11-11 11:34:17;48.39996;9.96955;19;0;false;;;6005;false
+Monthly expenses;Energy, utilities;EUR;-23.00;-23.00;Expenses;CASH;Cash;;2017-11-11 01:00:00;;;;0;false;Enbw;;3002;false
+Monthly expenses;Restaurant, fast-food;EUR;-6.80;-6.80;Expenses;CASH;Cash;lunch;2017-11-10 12:14:29;48.41672;9.9141;1938;0;false;;;1001;false
+Monthly expenses;Phone, cell phone;EUR;-10.00;-10.00;Expenses;CASH;Cash;;2017-11-10 01:00:00;;;;0;false;Drillisch;;7001;false
+Monthly expenses;Restaurant, fast-food;EUR;-15.90;-15.90;Expenses;CASH;Cash;lunch with Khaled vai;2017-11-09 16:39:03;48.41922;9.93468;19;0;false;;;1001;false
+Monthly expenses;Groceries;EUR;-12.91;-12.91;Expenses;CASH;Cash;;2017-11-08 18:01:18;;;;0;false;REWE;;1000;false
+Monthly expenses;Home;EUR;-38.97;-38.97;Expenses;CASH;Cash;;2017-11-07 13:28:43;48.41924;9.93463;24;0;false;ikea;;2004;false
+Monthly expenses;Groceries;EUR;-15.01;-15.01;Expenses;CASH;Cash;;2017-11-06 18:47:33;48.40957;9.96417;19;0;false;rewe;;1000;false
+Monthly expenses;Groceries;EUR;-11.92;-11.92;Expenses;CASH;Cash;mango lassi;2017-11-06 18:45:46;48.40957;9.96417;19;0;false;edeka;;1000;false
+Monthly expenses;Groceries;EUR;-10.97;-10.97;Expenses;CASH;Cash;;2017-11-06 18:06:37;;;;0;false;REWE;;1000;false
+Monthly expenses;Bar, cafe;EUR;-16.85;-16.85;Expenses;CASH;Cash;Starbucks;2017-11-05 21:06:58;48.4096;9.96412;20;0;false;;;1002;false
+Monthly expenses;Parking;EUR;-6.50;-6.50;Expenses;CASH;Cash;;2017-11-05 21:06:04;48.4096;9.96412;20;0;false;;;5001;false
+Monthly expenses;Parking;EUR;-6.50;-6.50;Expenses;CASH;Cash;;2017-11-05 21:05:51;48.4096;9.96412;20;0;false;;;5001;false
+Monthly expenses;Groceries;EUR;-14.90;-14.90;Expenses;CASH;Cash;mango lassi;2017-11-05 21:05:13;48.4096;9.96412;20;0;false;;;1000;false
+Monthly expenses;Restaurant, fast-food;EUR;-10.00;-10.00;Expenses;CASH;Cash;lunch;2017-11-05 21:04:48;48.4096;9.96416;19;0;false;;;1001;false
+Monthly expenses;Groceries;EUR;-27.00;-27.00;Expenses;CASH;Cash;haat bazaar;2017-11-05 21:04:44;48.4096;9.96416;19;0;false;;;1000;false
+Monthly expenses;TV, Streaming;EUR;-17.00;-17.00;Expenses;CASH;Cash;ARD;2017-11-01 21:01:38;48.4096;9.96416;19;0;false;;;6008;false
+Monthly expenses;Vehicle;EUR;-413.28;-413.28;Expenses;CASH;Cash;;2017-11-01 21:00:28;48.4096;9.96416;19;0;false;;;5004;false
+Monthly expenses;Insurances;EUR;-397.72;-397.72;Expenses;CASH;Cash;;2017-11-01 21:00:20;48.4096;9.96416;19;0;false;;;8001;false
+Monthly expenses;Rent;EUR;-762.64;-762.64;Expenses;CASH;Cash;;2017-11-01 20:47:07;;;;0;false;;;3000;false
